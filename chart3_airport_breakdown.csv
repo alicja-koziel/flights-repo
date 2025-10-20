@@ -1,0 +1,41 @@
+airport,airport_code,flight_type,count
+Amsterdam - Schiphol,EHAM,departures,1347228
+Paris-Charles-de-Gaulle,LFPG,departures,1291274
+Frankfurt,EDDF,departures,1290650
+London - Heathrow,EGLL,departures,1223108
+Madrid - Barajas,LEMD,departures,1058852
+Munich,EDDM,departures,1006864
+Barcelona,LEBL,departures,849975
+Istanbul Atatürk,LTBA,departures,785265
+Rome - Fiumicino,LIRF,departures,759094
+Zürich,LSZH,departures,686291
+London - Gatwick,EGKK,departures,670018
+Copenhagen - Kastrup,EKCH,departures,667785
+Oslo - Gardermoen,ENGM,departures,663420
+Vienna,LOWW,departures,662420
+Istanbul Sabiha Gökçen,LTFJ,departures,635778
+Paris-Orly,LFPO,departures,600204
+Stockholm - Arlanda,ESSA,departures,599108
+Brussels,EBBR,departures,589219
+Dublin,EIDW,departures,580453
+Athens,LGAV,departures,566604
+Amsterdam - Schiphol,EHAM,arrivals,1346797
+Paris-Charles-de-Gaulle,LFPG,arrivals,1290399
+Frankfurt,EDDF,arrivals,1290874
+London - Heathrow,EGLL,arrivals,1223366
+Madrid - Barajas,LEMD,arrivals,1058211
+Munich,EDDM,arrivals,1006660
+Barcelona,LEBL,arrivals,849791
+Istanbul Atatürk,LTBA,arrivals,785223
+Rome - Fiumicino,LIRF,arrivals,759006
+Zürich,LSZH,arrivals,686030
+London - Gatwick,EGKK,arrivals,670079
+Copenhagen - Kastrup,EKCH,arrivals,668141
+Oslo - Gardermoen,ENGM,arrivals,663302
+Vienna,LOWW,arrivals,662451
+Istanbul Sabiha Gökçen,LTFJ,arrivals,635849
+Paris-Orly,LFPO,arrivals,600769
+Stockholm - Arlanda,ESSA,arrivals,599087
+Brussels,EBBR,arrivals,589276
+Dublin,EIDW,arrivals,580625
+Athens,LGAV,arrivals,567177

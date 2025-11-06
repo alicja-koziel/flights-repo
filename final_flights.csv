@@ -1,1083 +1,750 @@
-country,year,total_flights,%_change,chart_type,season,departures,arrivals,airport,flight_type,flights
-Albania,2017,24559.0,10.036291948564013,country_trends,,,,,,
-Albania,2018,25515.0,3.8926666395211473,country_trends,,,,,,
-Albania,2019,28500.0,11.699000587889486,country_trends,,,,,,
-Albania,2020,15288.0,-46.35789473684211,country_trends,,,,,,
-Albania,2021,26190.0,71.31083202511775,country_trends,,,,,,
-Albania,2022,12879.0,-50.824742268041234,country_trends,,,,,,
-Armenia,2017,21210.0,15.234162773008798,country_trends,,,,,,
-Armenia,2018,23011.0,8.491277699198484,country_trends,,,,,,
-Armenia,2019,25556.0,11.059927860588402,country_trends,,,,,,
-Armenia,2020,9373.0,-63.323681327281264,country_trends,,,,,,
-Armenia,2021,19439.0,107.39357729648992,country_trends,,,,,,
-Armenia,2022,9795.0,-49.61160553526416,country_trends,,,,,,
-Austria,2017,327886.0,0.5624869652693487,country_trends,,,,,,
-Austria,2018,343331.0,4.710478641967031,country_trends,,,,,,
-Austria,2019,365761.0,6.533054108134717,country_trends,,,,,,
-Austria,2020,151426.0,-58.599741361162074,country_trends,,,,,,
-Austria,2021,172705.0,14.05240843712441,country_trends,,,,,,
-Austria,2022,96963.0,-43.856286731710135,country_trends,,,,,,
-Belgium,2017,336728.0,4.208858409051519,country_trends,,,,,,
-Belgium,2018,339760.0,0.9004300206695071,country_trends,,,,,,
-Belgium,2019,339194.0,-0.16658817989169128,country_trends,,,,,,
-Belgium,2020,166216.0,-50.99677470709978,country_trends,,,,,,
-Belgium,2021,209380.0,25.968619146171257,country_trends,,,,,,
-Belgium,2022,108640.0,-48.113477887095236,country_trends,,,,,,
-Bosnia and Herzegovina,2017,11860.0,11.655055545095095,country_trends,,,,,,
-Bosnia and Herzegovina,2018,12293.0,3.650927487352451,country_trends,,,,,,
-Bosnia and Herzegovina,2019,12918.0,5.08419425689417,country_trends,,,,,,
-Bosnia and Herzegovina,2020,5383.0,-58.32946276513392,country_trends,,,,,,
-Bosnia and Herzegovina,2021,10681.0,98.42095485788593,country_trends,,,,,,
-Bosnia and Herzegovina,2022,4968.0,-53.48750117030241,country_trends,,,,,,
-Bulgaria,2017,56774.0,12.199363648939743,country_trends,,,,,,
-Bulgaria,2018,59580.0,4.942403212738222,country_trends,,,,,,
-Bulgaria,2019,60266.0,1.1513930849278209,country_trends,,,,,,
-Bulgaria,2020,34984.0,-41.95068529519131,country_trends,,,,,,
-Bulgaria,2021,39888.0,14.017836725360166,country_trends,,,,,,
-Bulgaria,2022,19795.0,-50.37354592860008,country_trends,,,,,,
-Croatia,2017,41694.0,3.9154599606210816,country_trends,,,,,,
-Croatia,2018,43532.0,4.40830814985369,country_trends,,,,,,
-Croatia,2019,45216.0,3.868418634567683,country_trends,,,,,,
-Croatia,2020,22311.0,-50.65684713375796,country_trends,,,,,,
-Croatia,2021,29771.0,33.43642149612298,country_trends,,,,,,
-Croatia,2022,15614.0,-47.552987806926204,country_trends,,,,,,
-Cyprus,2017,79006.0,12.371280650850537,country_trends,,,,,,
-Cyprus,2018,82677.0,4.646482545629449,country_trends,,,,,,
-Cyprus,2019,80335.0,-2.832710427325613,country_trends,,,,,,
-Cyprus,2020,31583.0,-60.6858778863509,country_trends,,,,,,
-Cyprus,2021,51629.0,63.47085457366304,country_trends,,,,,,
-Cyprus,2022,23437.0,-54.60497007495787,country_trends,,,,,,
-Czech Republic,2017,163518.0,9.427093441119982,country_trends,,,,,,
-Czech Republic,2018,170030.0,3.982436184395599,country_trends,,,,,,
-Czech Republic,2019,166771.0,-1.9167205787213981,country_trends,,,,,,
-Czech Republic,2020,61205.0,-63.2999742161407,country_trends,,,,,,
-Czech Republic,2021,71075.0,16.126133485826323,country_trends,,,,,,
-Czech Republic,2022,37269.0,-47.56384101301442,country_trends,,,,,,
-Denmark,2017,259310.0,-2.429938894073025,country_trends,,,,,,
-Denmark,2018,266207.0,2.659750877328304,country_trends,,,,,,
-Denmark,2019,263434.0,-1.041670579661691,country_trends,,,,,,
-Denmark,2020,98204.0,-62.7215925051436,country_trends,,,,,,
-Denmark,2021,109870.0,11.879353183169727,country_trends,,,,,,
-Denmark,2022,73133.0,-33.436788932374625,country_trends,,,,,,
-Estonia,2017,43375.0,12.376288926887401,country_trends,,,,,,
-Estonia,2018,46517.0,7.243804034582135,country_trends,,,,,,
-Estonia,2019,45534.0,-2.1132059247157,country_trends,,,,,,
-Estonia,2020,20097.0,-55.86375016471208,country_trends,,,,,,
-Estonia,2021,23809.0,18.47041847041848,country_trends,,,,,,
-Estonia,2022,13776.0,-42.13952706959553,country_trends,,,,,,
-Finland,2017,176997.0,4.992258914112502,country_trends,,,,,,
-Finland,2018,192494.0,8.755515630208421,country_trends,,,,,,
-Finland,2019,194634.0,1.1117229627936487,country_trends,,,,,,
-Finland,2020,72789.0,-62.602114738432135,country_trends,,,,,,
-Finland,2021,72296.0,-0.6773001415048996,country_trends,,,,,,
-Finland,2022,51256.0,-29.102578289255288,country_trends,,,,,,
-France,2017,1837442.0,1.4939833572231498,country_trends,,,,,,
-France,2018,1856031.0,1.011678191747012,country_trends,,,,,,
-France,2019,1877249.0,1.1431921126317413,country_trends,,,,,,
-France,2020,882700.0,-52.97906670878504,country_trends,,,,,,
-France,2021,1124114.0,27.349495864959785,country_trends,,,,,,
-France,2022,592809.0,-47.26433440024766,country_trends,,,,,,
-Georgia,2017,32220.0,35.236096537250795,country_trends,,,,,,
-Georgia,2018,37959.0,17.811918063314703,country_trends,,,,,,
-Georgia,2019,36165.0,-4.726151900734998,country_trends,,,,,,
-Georgia,2020,10880.0,-69.91566431632793,country_trends,,,,,,
-Georgia,2021,21280.0,95.58823529411764,country_trends,,,,,,
-Georgia,2022,10208.0,-52.03007518796993,country_trends,,,,,,
-Germany,2017,2048846.0,1.5746493452925003,country_trends,,,,,,
-Germany,2018,2129836.0,3.95295693282951,country_trends,,,,,,
-Germany,2019,2128687.0,-0.053947815700361446,country_trends,,,,,,
-Germany,2020,875462.0,-58.8731457466504,country_trends,,,,,,
-Germany,2021,969535.0,10.745526362080815,country_trends,,,,,,
-Germany,2022,540966.0,-44.203561501131986,country_trends,,,,,,
-Greece,2017,460571.0,4.481461652934549,country_trends,,,,,,
-Greece,2018,504411.0,9.51861927911224,country_trends,,,,,,
-Greece,2019,508450.0,0.8007359078211929,country_trends,,,,,,
-Greece,2020,229559.0,-54.85121447536632,country_trends,,,,,,
-Greece,2021,370780.0,61.51838960790037,country_trends,,,,,,
-Greece,2022,133157.0,-64.08732941366848,country_trends,,,,,,
-Hungary,2017,102266.0,6.813030717650381,country_trends,,,,,,
-Hungary,2018,114474.0,11.937496333092135,country_trends,,,,,,
-Hungary,2019,122132.0,6.689728672012851,country_trends,,,,,,
-Hungary,2020,47770.0,-60.886581731241606,country_trends,,,,,,
-Hungary,2021,54543.0,14.178354615867693,country_trends,,,,,,
-Hungary,2022,35889.0,-34.200539024256095,country_trends,,,,,,
-Ireland,2017,283374.0,3.399280444285524,country_trends,,,,,,
-Ireland,2018,293961.0,3.7360520019479537,country_trends,,,,,,
-Ireland,2019,301124.0,2.4367177958980912,country_trends,,,,,,
-Ireland,2020,114483.0,-61.9814428607484,country_trends,,,,,,
-Ireland,2021,116793.0,2.017766830009693,country_trends,,,,,,
-Ireland,2022,95776.0,-17.995085321894287,country_trends,,,,,,
-Israel,2019,166767.0,6.6107936020866065,country_trends,,,,,,
-Israel,2020,54119.0,-67.54813602211469,country_trends,,,,,,
-Israel,2021,74950.0,38.491102939817814,country_trends,,,,,,
-Israel,2022,48152.0,-35.754503002001336,country_trends,,,,,,
-Italy,2017,1161145.0,2.639204163749631,country_trends,,,,,,
-Italy,2018,1203743.0,3.6686201981664723,country_trends,,,,,,
-Italy,2019,1231769.0,2.328237838143199,country_trends,,,,,,
-Italy,2020,480534.0,-60.988302189777464,country_trends,,,,,,
-Italy,2021,679105.0,41.32298651084003,country_trends,,,,,,
-Italy,2022,398448.0,-41.32748249534314,country_trends,,,,,,
-Latvia,2017,74724.0,10.225395326882225,country_trends,,,,,,
-Latvia,2018,83483.0,11.721802901343615,country_trends,,,,,,
-Latvia,2019,87545.0,4.86566127235486,country_trends,,,,,,
-Latvia,2020,35796.0,-59.111314181278196,country_trends,,,,,,
-Latvia,2021,39030.0,9.034528997653378,country_trends,,,,,,
-Latvia,2022,20863.0,-46.54624647706892,country_trends,,,,,,
-Lithuania,2017,55991.0,5.390855873661238,country_trends,,,,,,
-Lithuania,2018,61779.0,10.337375649657975,country_trends,,,,,,
-Lithuania,2019,63338.0,2.5235112254973435,country_trends,,,,,,
-Lithuania,2020,31116.0,-50.87309356152705,country_trends,,,,,,
-Lithuania,2021,34780.0,11.77529245404294,country_trends,,,,,,
-Lithuania,2022,20426.0,-41.27084531339851,country_trends,,,,,,
-Luxembourg,2017,70667.0,7.802965584574073,country_trends,,,,,,
-Luxembourg,2018,74875.0,5.954688892976923,country_trends,,,,,,
-Luxembourg,2019,76300.0,1.9031719532554225,country_trends,,,,,,
-Luxembourg,2020,40335.0,-47.13630406290956,country_trends,,,,,,
-Luxembourg,2021,47684.0,18.21990826825337,country_trends,,,,,,
-Luxembourg,2022,25993.0,-45.48905293180102,country_trends,,,,,,
-Malta,2017,50789.0,14.12745494584513,country_trends,,,,,,
-Malta,2018,56668.0,11.575341117171046,country_trends,,,,,,
-Malta,2019,58181.0,2.6699371779487446,country_trends,,,,,,
-Malta,2020,24307.0,-58.221756243447174,country_trends,,,,,,
-Malta,2021,32499.0,33.70222569630148,country_trends,,,,,,
-Malta,2022,16676.0,-48.68765192775162,country_trends,,,,,,
-Moldova,2017,27159.0,21.800161449457356,country_trends,,,,,,
-Moldova,2018,28033.0,3.218086085643801,country_trends,,,,,,
-Moldova,2019,27354.0,-2.422145328719727,country_trends,,,,,,
-Moldova,2020,9828.0,-64.0710682167142,country_trends,,,,,,
-Moldova,2021,16799.0,70.92999592999594,country_trends,,,,,,
-Moldova,2022,4787.0,-71.50425620572653,country_trends,,,,,,
-Montenegro,2017,12914.0,13.131844064826993,country_trends,,,,,,
-Montenegro,2018,14105.0,9.222549171441852,country_trends,,,,,,
-Montenegro,2019,14557.0,3.204537398085794,country_trends,,,,,,
-Montenegro,2020,5816.0,-60.04671292161847,country_trends,,,,,,
-Montenegro,2021,8232.0,41.540577716643746,country_trends,,,,,,
-Montenegro,2022,4012.0,-51.263362487852284,country_trends,,,,,,
-Morocco,2019,199189.0,9.88282930811919,country_trends,,,,,,
-Morocco,2020,70158.0,-64.77817550165923,country_trends,,,,,,
-Morocco,2021,99149.0,41.32244362724138,country_trends,,,,,,
-Morocco,2022,51105.0,-48.456363654701505,country_trends,,,,,,
-Netherlands,2017,549347.0,2.9449133485248247,country_trends,,,,,,
-Netherlands,2018,560167.0,1.9696111929254245,country_trends,,,,,,
-Netherlands,2019,558126.0,-0.36435562966044,country_trends,,,,,,
-Netherlands,2020,265943.0,-52.350723671715706,country_trends,,,,,,
-Netherlands,2021,313736.0,17.971144192552547,country_trends,,,,,,
-Netherlands,2022,177519.0,-43.4177142565724,country_trends,,,,,,
-Norway,2017,461413.0,-0.6303570659430546,country_trends,,,,,,
-Norway,2018,734691.0,59.2263330248606,country_trends,,,,,,
-Norway,2019,726795.0,-1.0747375427220374,country_trends,,,,,,
-Norway,2020,469920.0,-35.34352878046767,country_trends,,,,,,
-Norway,2021,507141.0,7.9207099080694565,country_trends,,,,,,
-Norway,2022,256316.0,-49.45863182034188,country_trends,,,,,,
-Poland,2017,386151.0,8.96277526327076,country_trends,,,,,,
-Poland,2018,428503.0,10.967730240242801,country_trends,,,,,,
-Poland,2019,443679.0,3.5416321472661716,country_trends,,,,,,
-Poland,2020,194403.0,-56.183862657461816,country_trends,,,,,,
-Poland,2021,238124.0,22.489879271410416,country_trends,,,,,,
-Poland,2022,133945.0,-43.74989501268247,country_trends,,,,,,
-Portugal,2017,411006.0,10.837661602187598,country_trends,,,,,,
-Portugal,2018,431889.0,5.080947723390894,country_trends,,,,,,
-Portugal,2019,442585.0,2.4765622648411867,country_trends,,,,,,
-Portugal,2020,193632.0,-56.24975993312019,country_trends,,,,,,
-Portugal,2021,255617.0,32.011754255494964,country_trends,,,,,,
-Portugal,2022,151657.0,-40.670221464143616,country_trends,,,,,,
-Republic of North Macedonia,2017,16404.0,7.779237844940878,country_trends,,,,,,
-Republic of North Macedonia,2018,17836.0,8.729578151670324,country_trends,,,,,,
-Republic of North Macedonia,2019,18845.0,5.657098004036776,country_trends,,,,,,
-Republic of North Macedonia,2020,8250.0,-56.22180949854072,country_trends,,,,,,
-Republic of North Macedonia,2021,13327.0,61.53939393939394,country_trends,,,,,,
-Republic of North Macedonia,2022,5418.0,-59.34568920237113,country_trends,,,,,,
-Romania,2017,120163.0,8.171146679149487,country_trends,,,,,,
-Romania,2018,127414.0,6.034303404542163,country_trends,,,,,,
-Romania,2019,129019.0,1.259673191329047,country_trends,,,,,,
-Romania,2020,56656.0,-56.08708794828669,country_trends,,,,,,
-Romania,2021,77637.0,37.032264896921774,country_trends,,,,,,
-Romania,2022,39685.0,-48.88390844571532,country_trends,,,,,,
-Serbia,2017,64080.0,1.0406811731314969,country_trends,,,,,,
-Serbia,2018,66466.0,3.723470661672912,country_trends,,,,,,
-Serbia,2019,70978.0,6.788433183883491,country_trends,,,,,,
-Serbia,2020,34129.0,-51.916086674744285,country_trends,,,,,,
-Serbia,2021,49367.0,44.6482463594011,country_trends,,,,,,
-Serbia,2022,21449.0,-56.55194765734195,country_trends,,,,,,
-Slovakia,2017,22210.0,6.009259701207581,country_trends,,,,,,
-Slovakia,2018,23906.0,7.636199909950481,country_trends,,,,,,
-Slovakia,2019,22593.0,-5.492345017987121,country_trends,,,,,,
-Slovakia,2020,9053.0,-59.930066834860355,country_trends,,,,,,
-Slovakia,2021,10980.0,21.28576162598035,country_trends,,,,,,
-Slovakia,2022,5395.0,-50.865209471766846,country_trends,,,,,,
-Slovenia,2017,33852.0,11.789181692094308,country_trends,,,,,,
-Slovenia,2018,35478.0,4.803261254874158,country_trends,,,,,,
-Slovenia,2019,32102.0,-9.515756243305706,country_trends,,,,,,
-Slovenia,2020,13159.0,-59.00878449940814,country_trends,,,,,,
-Slovenia,2021,16964.0,28.91557109202827,country_trends,,,,,,
-Slovenia,2022,7754.0,-54.2914406979486,country_trends,,,,,,
-Spain,2017,1961550.0,5.737494158037815,country_trends,,,,,,
-Spain,2018,2072032.0,5.632382554612425,country_trends,,,,,,
-Spain,2019,2118002.0,2.218595079612662,country_trends,,,,,,
-Spain,2020,894872.0,-57.7492372528449,country_trends,,,,,,
-Spain,2021,1254450.0,40.18205955712102,country_trends,,,,,,
-Spain,2022,702736.0,-43.9805492446889,country_trends,,,,,,
-Sweden,2017,374760.0,4.689459819595343,country_trends,,,,,,
-Sweden,2018,370848.0,-1.043868075568366,country_trends,,,,,,
-Sweden,2019,354070.0,-4.524225558719475,country_trends,,,,,,
-Sweden,2020,128809.0,-63.62047052842659,country_trends,,,,,,
-Sweden,2021,140520.0,9.09175601083776,country_trends,,,,,,
-Sweden,2022,90132.0,-35.858240819812124,country_trends,,,,,,
-Switzerland,2017,453076.0,0.4429389152208696,country_trends,,,,,,
-Switzerland,2018,458278.0,1.1481517449611012,country_trends,,,,,,
-Switzerland,2019,454627.0,-0.7966779989438733,country_trends,,,,,,
-Switzerland,2020,189556.0,-58.305160054286254,country_trends,,,,,,
-Switzerland,2021,223613.0,17.96672223511786,country_trends,,,,,,
-Switzerland,2022,141448.0,-36.744285886777604,country_trends,,,,,,
-Turkey,2017,1014577.0,3.1352987697893964,country_trends,,,,,,
-Turkey,2018,1067308.0,5.197338398169871,country_trends,,,,,,
-Turkey,2019,1060929.0,-0.5976718997702579,country_trends,,,,,,
-Turkey,2020,492743.0,-53.55551596760952,country_trends,,,,,,
-Turkey,2021,738132.0,49.80060599541749,country_trends,,,,,,
-Turkey,2022,323501.0,-56.17301512466605,country_trends,,,,,,
-Ukraine,2017,87593.0,17.797442138813047,country_trends,,,,,,
-Ukraine,2018,97248.0,11.022570296713209,country_trends,,,,,,
-Ukraine,2019,111042.0,14.18435340572557,country_trends,,,,,,
-Ukraine,2020,46973.0,-57.697988148628454,country_trends,,,,,,
-Ukraine,2021,75817.0,61.405488259212746,country_trends,,,,,,
-Ukraine,2022,9991.0,-86.82221665325717,country_trends,,,,,,
-United Kingdom,2017,2081431.0,2.659215838107243,country_trends,,,,,,
-United Kingdom,2018,2126049.0,2.143621383557748,country_trends,,,,,,
-United Kingdom,2019,2115593.0,-0.49180428108664964,country_trends,,,,,,
-United Kingdom,2020,817196.0,-61.37272150172552,country_trends,,,,,,
-United Kingdom,2021,811162.0,-0.7383785530031939,country_trends,,,,,,
-United Kingdom,2022,592783.0,-26.92174929298956,country_trends,,,,,,
-Albania,0,5088.142857142857,,seasonal_patterns,Winter,2544.1428571428573,2544.0,,,
-Albania,0,5252.0,,seasonal_patterns,Spring,2624.285714285714,2627.714285714286,,,
-Albania,0,6378.571428571428,,seasonal_patterns,Summer,3187.714285714286,3190.8571428571427,,,
-Albania,0,5459.857142857143,,seasonal_patterns,Autumn,2731.285714285714,2728.5714285714284,,,
-Armenia,0,4278.428571428572,,seasonal_patterns,Winter,2140.8571428571427,2137.5714285714284,,,
-Armenia,0,4533.857142857143,,seasonal_patterns,Spring,2268.5714285714284,2265.285714285714,,,
-Armenia,0,4803.428571428572,,seasonal_patterns,Summer,2406.4285714285716,2397.0,,,
-Armenia,0,4497.142857142857,,seasonal_patterns,Autumn,2252.285714285714,2244.8571428571427,,,
-Austria,0,60778.0,,seasonal_patterns,Winter,30379.285714285714,30398.714285714286,,,
-Austria,0,64921.28571428572,,seasonal_patterns,Spring,32439.714285714286,32481.571428571428,,,
-Austria,0,66256.71428571429,,seasonal_patterns,Summer,33102.42857142857,33154.28571428572,,,
-Austria,0,62918.857142857145,,seasonal_patterns,Autumn,31439.85714285714,31479.0,,,
-Belgium,0,61554.28571428572,,seasonal_patterns,Winter,30780.428571428572,30773.85714285714,,,
-Belgium,0,66866.71428571429,,seasonal_patterns,Spring,33423.142857142855,33443.57142857143,,,
-Belgium,0,67816.14285714286,,seasonal_patterns,Summer,33905.42857142857,33910.71428571428,,,
-Belgium,0,64198.0,,seasonal_patterns,Autumn,32100.714285714286,32097.285714285714,,,
-Bosnia and Herzegovina,0,2010.857142857143,,seasonal_patterns,Winter,1004.7142857142857,1006.1428571428571,,,
-Bosnia and Herzegovina,0,2486.0,,seasonal_patterns,Spring,1242.0,1244.0,,,
-Bosnia and Herzegovina,0,2982.0,,seasonal_patterns,Summer,1490.857142857143,1491.142857142857,,,
-Bosnia and Herzegovina,0,2339.0,,seasonal_patterns,Autumn,1171.7142857142858,1167.2857142857142,,,
-Bulgaria,0,10996.57142857143,,seasonal_patterns,Winter,5499.0,5497.571428571428,,,
-Bulgaria,0,11783.57142857143,,seasonal_patterns,Spring,5899.571428571428,5884.0,,,
-Bulgaria,0,11943.42857142857,,seasonal_patterns,Summer,5976.857142857143,5966.571428571428,,,
-Bulgaria,0,11260.42857142857,,seasonal_patterns,Autumn,5625.714285714285,5634.714285714285,,,
-Croatia,0,7615.0,,seasonal_patterns,Winter,3809.714285714286,3805.285714285714,,,
-Croatia,0,8723.714285714286,,seasonal_patterns,Spring,4363.142857142857,4360.571428571428,,,
-Croatia,0,9168.57142857143,,seasonal_patterns,Summer,4586.571428571428,4582.0,,,
-Croatia,0,8530.0,,seasonal_patterns,Autumn,4263.142857142857,4266.857142857143,,,
-Cyprus,0,9846.57142857143,,seasonal_patterns,Winter,4926.0,4920.571428571428,,,
-Cyprus,0,14518.285714285714,,seasonal_patterns,Spring,7253.714285714285,7264.571428571428,,,
-Cyprus,0,19166.714285714286,,seasonal_patterns,Summer,9580.42857142857,9586.285714285714,,,
-Cyprus,0,16322.0,,seasonal_patterns,Autumn,8162.428571428572,8159.571428571428,,,
-Czech Republic,0,25382.571428571428,,seasonal_patterns,Winter,12674.0,12708.57142857143,,,
-Czech Republic,0,28394.0,,seasonal_patterns,Spring,14172.142857142857,14221.857142857143,,,
-Czech Republic,0,33651.857142857145,,seasonal_patterns,Summer,16811.714285714286,16840.14285714286,,,
-Czech Republic,0,29614.285714285714,,seasonal_patterns,Autumn,14780.57142857143,14833.714285714286,,,
-Denmark,0,45033.857142857145,,seasonal_patterns,Winter,22512.0,22521.85714285714,,,
-Denmark,0,49569.142857142855,,seasonal_patterns,Spring,24773.85714285714,24795.285714285714,,,
-Denmark,0,47884.28571428572,,seasonal_patterns,Summer,23936.85714285714,23947.428571428572,,,
-Denmark,0,48359.28571428572,,seasonal_patterns,Autumn,24175.14285714286,24184.14285714286,,,
-Estonia,0,7820.285714285715,,seasonal_patterns,Winter,3910.714285714286,3909.5714285714284,,,
-Estonia,0,8503.714285714286,,seasonal_patterns,Spring,4251.857142857143,4251.857142857143,,,
-Estonia,0,8417.142857142857,,seasonal_patterns,Summer,4209.428571428572,4207.714285714285,,,
-Estonia,0,8359.714285714286,,seasonal_patterns,Autumn,4182.0,4177.714285714285,,,
-Finland,0,34449.857142857145,,seasonal_patterns,Winter,17225.714285714286,17224.14285714286,,,
-Finland,0,34827.57142857143,,seasonal_patterns,Spring,17411.428571428572,17416.14285714286,,,
-Finland,0,30892.14285714286,,seasonal_patterns,Summer,15422.42857142857,15469.714285714286,,,
-Finland,0,32551.428571428572,,seasonal_patterns,Autumn,16271.142857142857,16280.285714285714,,,
-France,0,327830.5714285714,,seasonal_patterns,Winter,163850.0,163980.57142857142,,,
-France,0,367641.5714285714,,seasonal_patterns,Spring,183644.14285714287,183997.42857142858,,,
-France,0,381949.14285714284,,seasonal_patterns,Summer,190878.14285714287,191071.0,,,
-France,0,348398.71428571426,,seasonal_patterns,Autumn,174137.14285714287,174261.57142857142,,,
-Georgia,0,5483.0,,seasonal_patterns,Winter,2742.0,2741.0,,,
-Georgia,0,6286.428571428572,,seasonal_patterns,Spring,3140.285714285714,3146.1428571428573,,,
-Georgia,0,6921.142857142857,,seasonal_patterns,Summer,3461.0,3460.1428571428573,,,
-Georgia,0,5957.571428571428,,seasonal_patterns,Autumn,2980.8571428571427,2976.714285714286,,,
-Germany,0,353064.14285714284,,seasonal_patterns,Winter,176378.7142857143,176685.42857142858,,,
-Germany,0,395539.14285714284,,seasonal_patterns,Spring,197411.42857142858,198127.7142857143,,,
-Germany,0,391416.0,,seasonal_patterns,Summer,195432.57142857142,195983.42857142858,,,
-Germany,0,390040.14285714284,,seasonal_patterns,Autumn,194758.57142857142,195281.57142857142,,,
-Greece,0,50980.57142857143,,seasonal_patterns,Winter,25465.0,25515.571428571428,,,
-Greece,0,79467.71428571429,,seasonal_patterns,Spring,39690.0,39777.71428571428,,,
-Greece,0,150311.14285714287,,seasonal_patterns,Summer,75124.0,75187.14285714286,,,
-Greece,0,97489.71428571429,,seasonal_patterns,Autumn,48747.71428571428,48742.0,,,
-Hungary,0,19350.14285714286,,seasonal_patterns,Winter,9681.57142857143,9668.57142857143,,,
-Hungary,0,20872.14285714286,,seasonal_patterns,Spring,10437.857142857143,10434.285714285714,,,
-Hungary,0,21636.571428571428,,seasonal_patterns,Summer,10818.714285714286,10817.857142857143,,,
-Hungary,0,19972.14285714286,,seasonal_patterns,Autumn,9986.285714285714,9985.857142857143,,,
-Ireland,0,48568.0,,seasonal_patterns,Winter,24283.428571428572,24284.571428571428,,,
-Ireland,0,56060.0,,seasonal_patterns,Spring,28017.85714285714,28042.14285714286,,,
-Ireland,0,55574.57142857143,,seasonal_patterns,Summer,27785.428571428572,27789.14285714286,,,
-Ireland,0,51164.42857142857,,seasonal_patterns,Autumn,25576.428571428572,25588.0,,,
-Israel,0,16779.285714285714,,seasonal_patterns,Winter,8386.42857142857,8392.857142857143,,,
-Israel,0,19169.14285714286,,seasonal_patterns,Spring,9580.57142857143,9588.57142857143,,,
-Israel,0,18573.85714285714,,seasonal_patterns,Summer,9287.285714285714,9286.57142857143,,,
-Israel,0,16965.428571428572,,seasonal_patterns,Autumn,8487.42857142857,8478.0,,,
-Italy,0,203416.57142857142,,seasonal_patterns,Winter,101701.28571428571,101715.28571428571,,,
-Italy,0,226664.7142857143,,seasonal_patterns,Spring,113298.57142857143,113366.14285714286,,,
-Italy,0,245228.42857142858,,seasonal_patterns,Summer,122594.85714285714,122633.57142857143,,,
-Italy,0,222694.85714285713,,seasonal_patterns,Autumn,111359.42857142857,111335.42857142857,,,
-Latvia,0,13797.42857142857,,seasonal_patterns,Winter,6897.285714285715,6900.142857142857,,,
-Latvia,0,14502.0,,seasonal_patterns,Spring,7250.285714285715,7251.714285714285,,,
-Latvia,0,15488.857142857143,,seasonal_patterns,Summer,7740.285714285715,7748.571428571428,,,
-Latvia,0,14673.57142857143,,seasonal_patterns,Autumn,7333.571428571428,7340.0,,,
-Lithuania,0,10709.142857142857,,seasonal_patterns,Winter,5354.428571428572,5354.714285714285,,,
-Lithuania,0,11983.0,,seasonal_patterns,Spring,5986.0,5997.0,,,
-Lithuania,0,11626.857142857143,,seasonal_patterns,Summer,5812.857142857143,5814.0,,,
-Lithuania,0,11474.857142857143,,seasonal_patterns,Autumn,5729.285714285715,5745.571428571428,,,
-Luxembourg,0,13526.0,,seasonal_patterns,Winter,6756.0,6770.0,,,
-Luxembourg,0,15221.714285714286,,seasonal_patterns,Spring,7605.285714285715,7616.428571428572,,,
-Luxembourg,0,14142.285714285714,,seasonal_patterns,Summer,7066.428571428572,7075.857142857143,,,
-Luxembourg,0,14453.714285714286,,seasonal_patterns,Autumn,7222.0,7231.714285714285,,,
-Malta,0,8242.42857142857,,seasonal_patterns,Winter,4135.285714285715,4107.142857142857,,,
-Malta,0,10294.42857142857,,seasonal_patterns,Spring,5156.142857142857,5138.285714285715,,,
-Malta,0,11536.285714285714,,seasonal_patterns,Summer,5780.571428571428,5755.714285714285,,,
-Malta,0,10444.285714285714,,seasonal_patterns,Autumn,5234.285714285715,5210.0,,,
-Moldova,0,4388.857142857143,,seasonal_patterns,Winter,2188.8571428571427,2200.0,,,
-Moldova,0,4365.571428571428,,seasonal_patterns,Spring,2181.1428571428573,2184.4285714285716,,,
-Moldova,0,5921.428571428572,,seasonal_patterns,Summer,2958.0,2963.4285714285716,,,
-Moldova,0,4789.571428571428,,seasonal_patterns,Autumn,2393.714285714286,2395.8571428571427,,,
-Montenegro,0,2092.285714285714,,seasonal_patterns,Winter,1046.5714285714287,1045.7142857142858,,,
-Montenegro,0,2390.4285714285716,,seasonal_patterns,Spring,1195.4285714285713,1195.0,,,
-Montenegro,0,3150.0,,seasonal_patterns,Summer,1574.2857142857142,1575.7142857142858,,,
-Montenegro,0,2517.4285714285716,,seasonal_patterns,Autumn,1259.4285714285713,1258.0,,,
-Morocco,0,22475.428571428572,,seasonal_patterns,Winter,11254.285714285714,11221.142857142857,,,
-Morocco,0,21874.85714285714,,seasonal_patterns,Spring,10937.857142857143,10937.0,,,
-Morocco,0,20629.14285714286,,seasonal_patterns,Summer,10321.42857142857,10307.714285714286,,,
-Morocco,0,20859.85714285714,,seasonal_patterns,Autumn,10421.42857142857,10438.42857142857,,,
-Netherlands,0,98831.85714285714,,seasonal_patterns,Winter,49410.0,49421.857142857145,,,
-Netherlands,0,110878.14285714286,,seasonal_patterns,Spring,55417.0,55461.142857142855,,,
-Netherlands,0,107983.85714285714,,seasonal_patterns,Summer,53992.28571428572,53991.57142857143,,,
-Netherlands,0,104944.71428571429,,seasonal_patterns,Autumn,52472.0,52472.71428571428,,,
-Norway,0,126127.57142857143,,seasonal_patterns,Winter,63050.857142857145,63076.71428571428,,,
-Norway,0,137963.14285714287,,seasonal_patterns,Spring,68952.71428571429,69010.42857142857,,,
-Norway,0,122046.85714285714,,seasonal_patterns,Summer,61002.0,61044.857142857145,,,
-Norway,0,131093.2857142857,,seasonal_patterns,Autumn,65542.57142857143,65550.71428571429,,,
-Poland,0,72326.14285714286,,seasonal_patterns,Winter,36154.0,36172.142857142855,,,
-Poland,0,76277.14285714286,,seasonal_patterns,Spring,38132.57142857143,38144.57142857143,,,
-Poland,0,84142.14285714286,,seasonal_patterns,Summer,42060.0,42082.142857142855,,,
-Poland,0,78567.85714285714,,seasonal_patterns,Autumn,39264.142857142855,39303.71428571428,,,
-Portugal,0,70136.57142857143,,seasonal_patterns,Winter,35079.28571428572,35057.28571428572,,,
-Portugal,0,82207.14285714286,,seasonal_patterns,Spring,41109.857142857145,41097.28571428572,,,
-Portugal,0,89621.28571428571,,seasonal_patterns,Summer,44822.142857142855,44799.142857142855,,,
-Portugal,0,80492.71428571429,,seasonal_patterns,Autumn,40256.71428571428,40236.0,,,
-Republic of North Macedonia,0,3120.0,,seasonal_patterns,Winter,1559.5714285714287,1560.4285714285713,,,
-Republic of North Macedonia,0,3358.1428571428573,,seasonal_patterns,Spring,1679.7142857142858,1678.4285714285713,,,
-Republic of North Macedonia,0,3815.8571428571427,,seasonal_patterns,Summer,1906.2857142857142,1909.5714285714287,,,
-Republic of North Macedonia,0,3320.285714285714,,seasonal_patterns,Autumn,1661.2857142857142,1659.0,,,
-Romania,0,22122.14285714286,,seasonal_patterns,Winter,11069.0,11053.142857142857,,,
-Romania,0,24246.428571428572,,seasonal_patterns,Spring,12127.42857142857,12119.0,,,
-Romania,0,24998.85714285714,,seasonal_patterns,Summer,12493.857142857143,12505.0,,,
-Romania,0,23155.428571428572,,seasonal_patterns,Autumn,11578.0,11577.42857142857,,,
-Serbia,0,11687.42857142857,,seasonal_patterns,Winter,5842.0,5845.428571428572,,,
-Serbia,0,12766.142857142857,,seasonal_patterns,Spring,6384.428571428572,6381.714285714285,,,
-Serbia,0,15408.0,,seasonal_patterns,Summer,7708.142857142857,7699.857142857143,,,
-Serbia,0,12979.714285714286,,seasonal_patterns,Autumn,6485.571428571428,6494.142857142857,,,
-Slovakia,0,3372.0,,seasonal_patterns,Winter,1682.857142857143,1689.142857142857,,,
-Slovakia,0,3711.285714285714,,seasonal_patterns,Spring,1851.2857142857142,1860.0,,,
-Slovakia,0,5289.428571428572,,seasonal_patterns,Summer,2640.714285714286,2648.714285714286,,,
-Slovakia,0,4068.4285714285716,,seasonal_patterns,Autumn,2030.4285714285713,2038.0,,,
-Slovenia,0,5194.142857142857,,seasonal_patterns,Winter,2592.5714285714284,2601.5714285714284,,,
-Slovenia,0,6299.285714285715,,seasonal_patterns,Spring,3140.8571428571427,3158.4285714285716,,,
-Slovenia,0,6920.428571428572,,seasonal_patterns,Summer,3454.5714285714284,3465.8571428571427,,,
-Slovenia,0,5813.428571428572,,seasonal_patterns,Autumn,2897.5714285714284,2915.8571428571427,,,
-Spain,0,335448.5714285714,,seasonal_patterns,Winter,167735.57142857142,167713.0,,,
-Spain,0,394460.0,,seasonal_patterns,Spring,197201.2857142857,197258.7142857143,,,
-Spain,0,438033.28571428574,,seasonal_patterns,Summer,219037.0,218996.2857142857,,,
-Spain,0,383308.85714285716,,seasonal_patterns,Autumn,191685.2857142857,191623.57142857142,,,
-Sweden,0,62953.28571428572,,seasonal_patterns,Winter,31472.571428571428,31480.714285714286,,,
-Sweden,0,69849.28571428571,,seasonal_patterns,Spring,34916.857142857145,34932.42857142857,,,
-Sweden,0,59932.28571428572,,seasonal_patterns,Summer,29965.714285714286,29966.571428571428,,,
-Sweden,0,66852.57142857143,,seasonal_patterns,Autumn,33422.28571428572,33430.28571428572,,,
-Switzerland,0,85330.57142857143,,seasonal_patterns,Winter,42671.42857142857,42659.142857142855,,,
-Switzerland,0,88083.42857142857,,seasonal_patterns,Spring,44050.857142857145,44032.57142857143,,,
-Switzerland,0,85012.42857142857,,seasonal_patterns,Summer,42525.57142857143,42486.857142857145,,,
-Switzerland,0,80384.42857142857,,seasonal_patterns,Autumn,40211.28571428572,40173.142857142855,,,
-Turkey,0,182666.0,,seasonal_patterns,Winter,91344.57142857143,91321.42857142857,,,
-Turkey,0,198471.2857142857,,seasonal_patterns,Spring,99212.71428571429,99258.57142857143,,,
-Turkey,0,223804.7142857143,,seasonal_patterns,Summer,111928.71428571429,111876.0,,,
-Turkey,0,206618.57142857142,,seasonal_patterns,Autumn,103304.71428571429,103313.85714285714,,,
-Ukraine,0,17052.14285714286,,seasonal_patterns,Winter,8526.714285714286,8525.42857142857,,,
-Ukraine,0,15552.42857142857,,seasonal_patterns,Spring,7773.857142857143,7778.571428571428,,,
-Ukraine,0,20123.428571428572,,seasonal_patterns,Summer,10065.857142857143,10057.57142857143,,,
-Ukraine,0,19132.428571428572,,seasonal_patterns,Autumn,9566.285714285714,9566.142857142857,,,
-United Kingdom,0,352927.5714285714,,seasonal_patterns,Winter,176433.57142857142,176494.0,,,
-United Kingdom,0,393907.14285714284,,seasonal_patterns,Spring,196886.85714285713,197020.2857142857,,,
-United Kingdom,0,390400.0,,seasonal_patterns,Summer,195183.42857142858,195216.57142857142,,,
-United Kingdom,0,373012.28571428574,,seasonal_patterns,Autumn,186525.42857142858,186486.85714285713,,,
-Albania,0,22178.571428571428,,airport_breakdown,,,,Tirana,departures,11087.42857142857
-Armenia,0,18112.85714285714,,airport_breakdown,,,,Yerevan,departures,9068.142857142857
-Austria,0,14181.42857142857,,airport_breakdown,,,,Graz,departures,7069.714285714285
-Austria,0,14594.857142857143,,airport_breakdown,,,,Innsbruck,departures,7290.714285714285
-Austria,0,5278.571428571428,,airport_breakdown,,,,Klagenfurt,departures,2643.5714285714284
-Austria,0,9722.857142857143,,airport_breakdown,,,,Linz,departures,4830.714285714285
-Austria,0,21829.85714285714,,airport_breakdown,,,,Salzburg,departures,10895.142857142857
-Austria,0,189267.2857142857,,airport_breakdown,,,,Vienna,departures,94631.42857142857
-Belgium,0,12215.714285714286,,airport_breakdown,,,,Antwerp,departures,6101.714285714285
-Belgium,0,168356.42857142858,,airport_breakdown,,,,Brussels,departures,84174.14285714286
-Belgium,0,41222.28571428572,,airport_breakdown,,,,Charleroi,departures,20626.714285714286
-Belgium,0,32664.85714285714,,airport_breakdown,,,,Liège,departures,16332.42857142857
-Belgium,0,5975.857142857143,,airport_breakdown,,,,Ostend-Bruges,departures,2974.714285714286
-Bosnia and Herzegovina,0,9817.857142857143,,airport_breakdown,,,,Sarajevo,departures,4909.285714285715
-Bulgaria,0,45984.0,,airport_breakdown,,,,Sofia,departures,23001.14285714286
-Croatia,0,626.0,,airport_breakdown,,,,Lučko,departures,322.7142857142857
-Croatia,0,33411.28571428572,,airport_breakdown,,,,Zagreb,departures,16699.85714285714
-Cyprus,0,45565.0,,airport_breakdown,,,,Larnaca,departures,22778.14285714286
-Cyprus,0,14288.57142857143,,airport_breakdown,,,,Paphos,departures,7144.428571428572
-Czech Republic,0,7545.857142857143,,airport_breakdown,,,,Brno-Tuřany,departures,3761.4285714285716
-Czech Republic,0,1473.857142857143,,airport_breakdown,,,,Karlovy Vary,departures,714.1428571428571
-Czech Republic,0,5631.571428571428,,airport_breakdown,,,,Ostrava,departures,2808.285714285714
-Czech Republic,0,102391.42857142857,,airport_breakdown,,,,Prague,departures,51154.57142857143
-Denmark,0,190846.57142857142,,airport_breakdown,,,,Copenhagen - Kastrup,departures,95397.85714285714
-Estonia,0,31881.285714285714,,airport_breakdown,,,,Tallinn,departures,15945.0
-Estonia,0,1219.5714285714287,,airport_breakdown,,,,Tartu,departures,609.0
-Finland,0,132721.0,,airport_breakdown,,,,Helsinki - Vantaa,departures,66330.71428571429
-France,0,3156.5714285714284,,airport_breakdown,,,,Agen-La Garenne,departures,1544.857142857143
-France,0,14889.57142857143,,airport_breakdown,,,,Ajaccio-Napoléon-Bonaparte,departures,7444.285714285715
-France,0,993.8571428571429,,airport_breakdown,,,,Albert-Bray,departures,490.0
-France,0,1526.2857142857142,,airport_breakdown,,,,Angers-Marcé,departures,747.7142857142857
-France,0,3132.285714285714,,airport_breakdown,,,,Annecy-Meythet,departures,1517.2857142857142
-France,0,1522.5714285714287,,airport_breakdown,,,,Annemasse,departures,811.4285714285714
-France,0,5864.428571428572,,airport_breakdown,,,,Avignon-Caumont,departures,2795.5714285714284
-France,0,14035.42857142857,,airport_breakdown,,,,Bastia-Poretta,departures,7025.0
-France,0,19371.14285714286,,airport_breakdown,,,,Beauvais-Tillé,departures,9678.857142857143
-France,0,3324.0,,airport_breakdown,,,,Bergerac-Roumanière,departures,1638.0
-France,0,10766.142857142857,,airport_breakdown,,,,Biarritz-Bayonne-Anglet,departures,5362.857142857143
-France,0,51883.857142857145,,airport_breakdown,,,,Bordeaux-Mérignac,departures,25943.0
-France,0,13015.42857142857,,airport_breakdown,,,,Brest-Bretagne,departures,6517.285714285715
-France,0,2659.0,,airport_breakdown,,,,Brive-Souillac,departures,1312.857142857143
-France,0,60841.28571428572,,airport_breakdown,,,,Bâle-Mulhouse,departures,30428.428571428572
-France,0,5092.142857142857,,airport_breakdown,,,,Béziers-Vias,departures,2515.4285714285716
-France,0,5035.714285714285,,airport_breakdown,,,,Caen-Carpiquet,departures,2491.285714285714
-France,0,5339.285714285715,,airport_breakdown,,,,Calvi-Sainte-Catherine,departures,2655.8571428571427
-France,0,12549.714285714286,,airport_breakdown,,,,Cannes-Mandelieu,departures,6293.857142857143
-France,0,4569.142857142857,,airport_breakdown,,,,Carcassonne-Salvaza,departures,2247.0
-France,0,6007.428571428572,,airport_breakdown,,,,Chambéry-Aix-les-Bains,departures,2981.4285714285716
-France,0,3267.8571428571427,,airport_breakdown,,,,Châlons-Vatry,departures,1623.142857142857
-France,0,2298.5714285714284,,airport_breakdown,,,,Châteauroux-Déols,departures,1123.5714285714287
-France,0,9374.57142857143,,airport_breakdown,,,,Clermont-Ferrand-Auvergne,departures,4662.571428571428
-France,0,2953.5714285714284,,airport_breakdown,,,,Deauville-Normandie,departures,1452.5714285714287
-France,0,2483.4285714285716,,airport_breakdown,,,,Dinard-Pleurtuit-Saint-Malo,departures,1226.0
-France,0,2394.8571428571427,,airport_breakdown,,,,Dôle-Tavaux,departures,1173.857142857143
-France,0,9463.285714285714,,airport_breakdown,,,,Figari-Sud Corse,departures,4718.571428571428
-France,0,6080.428571428572,,airport_breakdown,,,,Grenoble-Isère,departures,3013.4285714285716
-France,0,9584.0,,airport_breakdown,,,,Hyères-Le Palyvestre,departures,4786.714285714285
-France,0,2650.4285714285716,,airport_breakdown,,,,Istres-Le Tubé,departures,1333.5714285714287
-France,0,4068.1428571428573,,airport_breakdown,,,,La Rochelle-Ile de Ré,departures,2006.857142857143
-France,0,742.5714285714286,,airport_breakdown,,,,Lannion,departures,366.14285714285717
-France,0,784.1428571428571,,airport_breakdown,,,,Le Havre-Octeville,departures,386.2857142857143
-France,0,1223.5714285714287,,airport_breakdown,,,,Le Mans,departures,597.7142857142857
-France,0,18730.14285714286,,airport_breakdown,,,,Lille-Lesquin,departures,9374.0
-France,0,5266.0,,airport_breakdown,,,,Limoges-Bellegarde,departures,2617.714285714286
-France,0,4968.857142857143,,airport_breakdown,,,,Lorient-Lann Bihoué,departures,2500.4285714285716
-France,0,8646.57142857143,,airport_breakdown,,,,Lyon-Bron,departures,4317.857142857143
-France,0,83331.85714285714,,airport_breakdown,,,,Lyon-Saint-Exupéry,departures,41686.57142857143
-France,0,76214.28571428571,,airport_breakdown,,,,Marseille-Provence,departures,38112.57142857143
-France,0,4317.0,,airport_breakdown,,,,Metz-Nancy-Lorraine,departures,2150.285714285714
-France,0,23922.714285714286,,airport_breakdown,,,,Montpellier-Méditerranée,departures,11927.0
-France,0,44238.71428571428,,airport_breakdown,,,,Nantes-Atlantique,departures,22109.428571428572
-France,0,111243.0,,airport_breakdown,,,,Nice-Côte d’Azur,departures,55629.57142857143
-France,0,3936.4285714285716,,airport_breakdown,,,,Nîmes-Garons,departures,2028.4285714285713
-France,0,368810.4285714286,,airport_breakdown,,,,Paris-Charles-de-Gaulle,departures,184467.7142857143
-France,0,46696.142857142855,,airport_breakdown,,,,Paris-Le Bourget,departures,23356.428571428572
-France,0,171567.57142857142,,airport_breakdown,,,,Paris-Orly,departures,85743.42857142857
-France,0,8808.857142857143,,airport_breakdown,,,,Pau-Pyrénées,departures,4431.0
-France,0,8919.0,,airport_breakdown,,,,Perpignan-Rivesaltes,departures,4452.142857142857
-France,0,4224.428571428572,,airport_breakdown,,,,Poitiers-Biard,departures,2073.714285714286
-France,0,2075.0,,airport_breakdown,,,,Quimper-Pluguffan,departures,1024.857142857143
-France,0,13721.0,,airport_breakdown,,,,Rennes-Saint-Jacques,departures,6862.428571428572
-France,0,3099.1428571428573,,airport_breakdown,,,,Rodez-Marcillac,departures,1524.7142857142858
-France,0,2169.0,,airport_breakdown,,,,Rouen,departures,1061.0
-France,0,1890.5714285714287,,airport_breakdown,,,,Saint-Etienne-Bouthéon,departures,933.8571428571429
-France,0,2400.1428571428573,,airport_breakdown,,,,Saint-Nazaire-Montoir,departures,1177.7142857142858
-France,0,15893.857142857143,,airport_breakdown,,,,Strasbourg-Entzheim,departures,7942.857142857143
-France,0,5558.142857142857,,airport_breakdown,,,,Tarbes-Lourdes Pyrénées,departures,2767.285714285714
-France,0,71243.57142857143,,airport_breakdown,,,,Toulouse-Blagnac,departures,35766.57142857143
-France,0,2728.4285714285716,,airport_breakdown,,,,Tours-Val de Loire,departures,1359.857142857143
-France,0,9803.714285714286,,airport_breakdown,,,,Toussus-le-Noble,departures,4954.571428571428
-Georgia,0,24648.14285714286,,airport_breakdown,,,,Tbilisi,departures,12324.142857142857
-Germany,0,84955.57142857143,,airport_breakdown,,,,Berlin - Brandenburg,departures,42368.0
-Germany,0,158519.2,,airport_breakdown,,,,Berlin - Tegel,departures,79216.2
-Germany,0,22685.85714285714,,airport_breakdown,,,,Bremen,departures,11270.285714285714
-Germany,0,109811.57142857143,,airport_breakdown,,,,Cologne-Bonn,departures,54664.857142857145
-Germany,0,15294.142857142857,,airport_breakdown,,,,Dresden,departures,7621.428571428572
-Germany,0,155957.0,,airport_breakdown,,,,Dusseldorf,departures,77950.71428571429
-Germany,0,4219.857142857143,,airport_breakdown,,,,Erfurt,departures,2065.4285714285716
-Germany,0,368789.14285714284,,airport_breakdown,,,,Frankfurt,departures,184378.57142857142
-Germany,0,109405.42857142857,,airport_breakdown,,,,Hamburg,departures,54645.57142857143
-Germany,0,47006.28571428572,,airport_breakdown,,,,Hanover,departures,23456.571428571428
-Germany,0,63503.142857142855,,airport_breakdown,,,,Leipzig-Halle,departures,31734.285714285714
-Germany,0,14759.714285714286,,airport_breakdown,,,,Muenster-Osnabrueck,departures,7179.428571428572
-Germany,0,287646.28571428574,,airport_breakdown,,,,Munich,departures,143837.7142857143
-Germany,0,36950.0,,airport_breakdown,,,,Nuremberg,departures,18342.14285714286
-Germany,0,6483.571428571428,,airport_breakdown,,,,Saarbruecken,departures,3199.4285714285716
-Germany,0,89363.85714285714,,airport_breakdown,,,,Stuttgart,departures,44683.857142857145
-Greece,0,4230.428571428572,,airport_breakdown,,,,Aktion,departures,2089.285714285714
-Greece,0,161968.7142857143,,airport_breakdown,,,,Athens,departures,80943.42857142857
-Greece,0,18898.571428571428,,airport_breakdown,,,,Corfu,departures,9467.57142857143
-Greece,0,42311.142857142855,,airport_breakdown,,,,Heraklion,departures,21159.428571428572
-Greece,0,4899.571428571428,,airport_breakdown,,,,Kefallinia,departures,2436.5714285714284
-Greece,0,20045.0,,airport_breakdown,,,,Khania - Souda,departures,10025.285714285714
-Greece,0,14249.714285714286,,airport_breakdown,,,,Kos,departures,7131.857142857143
-Greece,0,12509.42857142857,,airport_breakdown,,,,Mikonos,departures,6252.142857142857
-Greece,0,29232.571428571428,,airport_breakdown,,,,Rodos,departures,14607.0
-Greece,0,14421.0,,airport_breakdown,,,,Santorini,departures,7211.428571428572
-Greece,0,3129.5714285714284,,airport_breakdown,,,,Skiathos,departures,1557.2857142857142
-Greece,0,42988.0,,airport_breakdown,,,,Thessaloniki,departures,21457.14285714286
-Greece,0,9365.42857142857,,airport_breakdown,,,,Zakinthos,departures,4688.285714285715
-Hungary,0,81831.0,,airport_breakdown,,,,Budapest - Ferihegy,departures,40924.42857142857
-Ireland,0,4501.0,,airport_breakdown,,,,Connaught,departures,2244.285714285714
-Ireland,0,18246.85714285714,,airport_breakdown,,,,Cork,departures,9127.42857142857
-Ireland,0,1591.0,,airport_breakdown,,,,Donegal,departures,794.2857142857143
-Ireland,0,165868.2857142857,,airport_breakdown,,,,Dublin,departures,82921.85714285714
-Ireland,0,3539.4285714285716,,airport_breakdown,,,,Kerry - Farranfore,departures,1768.7142857142858
-Ireland,0,16292.714285714286,,airport_breakdown,,,,Shannon,departures,8150.857142857143
-Ireland,0,46.142857142857146,,airport_breakdown,,,,Sligo,departures,22.428571428571427
-Ireland,0,528.5714285714286,,airport_breakdown,,,,Waterford,departures,262.42857142857144
-Ireland,0,753.0,,airport_breakdown,,,,Weston,departures,370.85714285714283
-Israel,0,125770.66666666667,,airport_breakdown,,,,Ben Gurion International,departures,62874.666666666664
-Israel,0,61551.0,,airport_breakdown,,,,Tel Aviv - Ben Gurion International,departures,30784.0
-Italy,0,67729.0,,airport_breakdown,,,,Bergamo,departures,33841.0
-Italy,0,55162.42857142857,,airport_breakdown,,,,Bologna,departures,27590.85714285714
-Italy,0,15400.0,,airport_breakdown,,,,Brindisi,departures,7698.285714285715
-Italy,0,55845.0,,airport_breakdown,,,,Catania,departures,27920.571428571428
-Italy,0,82306.85714285714,,airport_breakdown,,,,Milan - Linate,departures,41098.0
-Italy,0,150632.14285714287,,airport_breakdown,,,,Milan - Malpensa,departures,75311.57142857143
-Italy,0,58124.57142857143,,airport_breakdown,,,,Naples,departures,29055.428571428572
-Italy,0,30994.0,,airport_breakdown,,,,Palermo Falcone-Borsellino,departures,15497.5
-Italy,0,32966.142857142855,,airport_breakdown,,,,Pisa San Giusto,departures,16529.571428571428
-Italy,0,40472.71428571428,,airport_breakdown,,,,Rome - Ciampino,departures,20221.714285714286
-Italy,0,216871.42857142858,,airport_breakdown,,,,Rome - Fiumicino,departures,108442.0
-Italy,0,31551.14285714286,,airport_breakdown,,,,Torino Caselle,departures,15771.0
-Italy,0,14556.0,,airport_breakdown,,,,Treviso,departures,7278.857142857143
-Italy,0,67531.71428571429,,airport_breakdown,,,,Venice,departures,33767.42857142857
-Latvia,0,478.2857142857143,,airport_breakdown,,,,Liepaja,departures,238.71428571428572
-Latvia,0,57968.142857142855,,airport_breakdown,,,,Riga,departures,28974.571428571428
-Latvia,0,8.666666666666666,,airport_breakdown,,,,Tukums Jurmala,departures,4.666666666666667
-Latvia,0,11.714285714285714,,airport_breakdown,,,,Ventspils,departures,6.142857142857143
-Lithuania,0,7588.142857142857,,airport_breakdown,,,,Kaunas,departures,3787.4285714285716
-Lithuania,0,3004.8571428571427,,airport_breakdown,,,,Palanga,departures,1503.0
-Lithuania,0,2291.714285714286,,airport_breakdown,,,,Siauliai,departures,1144.142857142857
-Lithuania,0,32909.142857142855,,airport_breakdown,,,,Vilnius,departures,16448.0
-Luxembourg,0,57343.71428571428,,airport_breakdown,,,,Luxembourg,departures,28649.714285714286
-Malta,0,40517.42857142857,,airport_breakdown,,,,Malta,departures,20306.285714285714
-Moldova,0,19465.428571428572,,airport_breakdown,,,,Chișinău,departures,9721.714285714286
-Montenegro,0,10150.142857142857,,airport_breakdown,,,,Podgorica,departures,5075.714285714285
-Morocco,0,10267.0,,airport_breakdown,,,,Al Massira,departures,5137.4
-Morocco,0,9499.6,,airport_breakdown,,,,Ibn Batouta,departures,4750.2
-Morocco,0,26707.8,,airport_breakdown,,,,Menara,departures,13344.0
-Morocco,0,57196.6,,airport_breakdown,,,,Mohammed V International,departures,28625.4
-Morocco,0,8733.8,,airport_breakdown,,,,Rabat-Salé,departures,4375.8
-Morocco,0,7770.2,,airport_breakdown,,,,Saïss,departures,3876.2
-Netherlands,0,384860.71428571426,,airport_breakdown,,,,Amsterdam - Schiphol,departures,192461.14285714287
-Netherlands,0,8665.285714285714,,airport_breakdown,,,,Groningen,departures,4297.714285714285
-Netherlands,0,2301.8,,airport_breakdown,,,,Lelystad,departures,1174.6
-Netherlands,0,8122.857142857143,,airport_breakdown,,,,Maastricht-Aachen,departures,4056.285714285714
-Netherlands,0,19345.571428571428,,airport_breakdown,,,,Rotterdam,departures,9637.142857142857
-Norway,0,11026.6,,airport_breakdown,,,,Alesund,departures,5510.6
-Norway,0,7170.4,,airport_breakdown,,,,Alta,departures,3583.8
-Norway,0,3088.8,,airport_breakdown,,,,Andenes,departures,1546.2
-Norway,0,2785.8,,airport_breakdown,,,,Bardufoss,departures,1392.4
-Norway,0,1965.2,,airport_breakdown,,,,Batsfjord,departures,986.0
-Norway,0,73407.0,,airport_breakdown,,,,Bergen,departures,36668.57142857143
-Norway,0,1364.0,,airport_breakdown,,,,Berlevåg,departures,681.2
-Norway,0,31363.4,,airport_breakdown,,,,Bodø,departures,15698.8
-Norway,0,5790.8,,airport_breakdown,,,,Bronnoysund Bronnoy,departures,2894.8
-Norway,0,6714.0,,airport_breakdown,,,,Florø,departures,3354.6
-Norway,0,2818.8,,airport_breakdown,,,,Forde Bringeland,departures,1408.4
-Norway,0,8926.4,,airport_breakdown,,,,Hammerfest,departures,4451.2
-Norway,0,7929.8,,airport_breakdown,,,,Harstad - Narvik Evenes,departures,3962.8
-Norway,0,5299.857142857143,,airport_breakdown,,,,Haugesund,departures,2647.4285714285716
-Norway,0,1742.2,,airport_breakdown,,,,Honningsvåg Valan,departures,869.2
-Norway,0,6331.8,,airport_breakdown,,,,Kirkenes Høybuktmoen,departures,3164.6
-Norway,0,10914.0,,airport_breakdown,,,,Kristiansand Kjevik,departures,5445.6
-Norway,0,8096.0,,airport_breakdown,,,,Kristiansund Kvernberget,departures,4054.0
-Norway,0,2047.2,,airport_breakdown,,,,Lakselv Banak,departures,1024.6
-Norway,0,4677.4,,airport_breakdown,,,,Leknes,departures,2335.4
-Norway,0,2143.0,,airport_breakdown,,,,Mehamn,departures,1075.8
-Norway,0,4244.0,,airport_breakdown,,,,Mo i Rana Røssvoll,departures,2120.0
-Norway,0,4561.4,,airport_breakdown,,,,Molde Årø,departures,2279.8
-Norway,0,3088.6,,airport_breakdown,,,,Mosjøen Kjærstad,departures,1543.4
-Norway,0,2106.2,,airport_breakdown,,,,Namsos Høknesøra,departures,1052.8
-Norway,0,3659.0,,airport_breakdown,,,,Orsta¿Volda Hovden,departures,1828.0
-Norway,0,189531.7142857143,,airport_breakdown,,,,Oslo - Gardermoen,departures,94774.28571428571
-Norway,0,1283.8,,airport_breakdown,,,,Roros,departures,642.0
-Norway,0,1972.6,,airport_breakdown,,,,Rorvik Ryum,departures,985.6
-Norway,0,1087.6,,airport_breakdown,,,,Rost,departures,542.8
-Norway,0,1856.0,,airport_breakdown,,,,Sandane  Anda,departures,926.0
-Norway,0,3178.4,,airport_breakdown,,,,Sandnessjøen Stokka,departures,1587.0
-Norway,0,4307.4,,airport_breakdown,,,,Sogndal Haukåsen,departures,2154.2
-Norway,0,1457.8,,airport_breakdown,,,,Sorkjosen,departures,728.2
-Norway,0,52914.42857142857,,airport_breakdown,,,,Stavanger,departures,26426.714285714286
-Norway,0,4282.4,,airport_breakdown,,,,Stokmarknes Skagen,departures,2140.0
-Norway,0,1529.0,,airport_breakdown,,,,Svalbard Longyear,departures,763.4
-Norway,0,3334.0,,airport_breakdown,,,,Svolvær Helle,departures,1665.6
-Norway,0,33984.6,,airport_breakdown,,,,Tromsø,departures,17003.2
-Norway,0,45211.57142857143,,airport_breakdown,,,,Trondheim,departures,22612.14285714286
-Norway,0,5582.6,,airport_breakdown,,,,Vadsø,departures,2790.4
-Norway,0,1851.8,,airport_breakdown,,,,Vardø Svartnes,departures,925.2
-Norway,0,950.0,,airport_breakdown,,,,Værøy,departures,469.0
-Poland,0,2942.714285714286,,airport_breakdown,,,,Bydgoszcz,departures,1468.0
-Poland,0,32486.714285714286,,airport_breakdown,,,,Gdansk,departures,16234.42857142857
-Poland,0,26967.714285714286,,airport_breakdown,,,,Katowice - Pyrzowice,departures,13474.142857142857
-Poland,0,42118.57142857143,,airport_breakdown,,,,Krakow - Balice,departures,21047.428571428572
-Poland,0,3254.4285714285716,,airport_breakdown,,,,Lodz - Lublinek,departures,1623.142857142857
-Poland,0,2804.1428571428573,,airport_breakdown,,,,Lublin,departures,1399.4285714285713
-Poland,0,1175.0,,airport_breakdown,,,,Olsztyn-Mazury,departures,584.7142857142857
-Poland,0,16777.85714285714,,airport_breakdown,,,,Poznan - Lawica,departures,8381.285714285714
-Poland,0,540.5,,airport_breakdown,,,,Radom,departures,272.3333333333333
-Poland,0,6850.714285714285,,airport_breakdown,,,,Rzeszow - Jasionka,departures,3420.1428571428573
-Poland,0,4481.714285714285,,airport_breakdown,,,,Szczecin - Goleniów,departures,2239.8571428571427
-Poland,0,133008.57142857142,,airport_breakdown,,,,Warszawa - Chopina,departures,66536.57142857143
-Poland,0,15332.57142857143,,airport_breakdown,,,,Warszawa - Modlin,departures,7645.857142857143
-Poland,0,21821.428571428572,,airport_breakdown,,,,Wroclaw - Strachowice,departures,10909.857142857143
-Poland,0,827.8571428571429,,airport_breakdown,,,,Zielona Gora - Babimost,departures,412.42857142857144
-Portugal,0,4739.428571428572,,airport_breakdown,,,,Cascais,departures,2429.8571428571427
-Portugal,0,44452.857142857145,,airport_breakdown,,,,Faro,departures,22224.714285714286
-Portugal,0,1427.2857142857142,,airport_breakdown,,,,Flores,departures,712.2857142857143
-Portugal,0,3944.4285714285716,,airport_breakdown,,,,Horta,departures,1975.0
-Portugal,0,157555.14285714287,,airport_breakdown,,,,Lisbon,departures,78765.42857142857
-Portugal,0,19450.714285714286,,airport_breakdown,,,,Madeira,departures,9721.714285714286
-Portugal,0,197.6,,airport_breakdown,,,,Montijo,departures,101.0
-Portugal,0,16154.714285714286,,airport_breakdown,,,,Ponta Delgada,departures,8081.0
-Portugal,0,69797.85714285714,,airport_breakdown,,,,Porto,departures,34891.42857142857
-Portugal,0,2445.714285714286,,airport_breakdown,,,,Porto Santo,departures,1216.142857142857
-Portugal,0,2348.4285714285716,,airport_breakdown,,,,Santa Maria,departures,1178.2857142857142
-Republic of North Macedonia,0,13614.285714285714,,airport_breakdown,,,,Skopje,departures,6806.857142857143
-Romania,0,4568.428571428572,,airport_breakdown,,,,Bucharest - Băneasa,departures,2282.5714285714284
-Romania,0,89954.42857142857,,airport_breakdown,,,,Bucharest - Otopeni,departures,44985.71428571428
-Serbia,0,52841.28571428572,,airport_breakdown,,,,Belgrade - Nikola Tesla,departures,26420.14285714286
-Slovakia,0,16441.14285714286,,airport_breakdown,,,,Bratislava,departures,8205.285714285714
-Slovenia,0,20894.571428571428,,airport_breakdown,,,,Ljubljana,departures,10441.857142857143
-Slovenia,0,1721.142857142857,,airport_breakdown,,,,Maribor,departures,847.1428571428571
-Slovenia,0,1611.5714285714287,,airport_breakdown,,,,Portorož,departures,796.5714285714286
-Spain,0,199.42857142857142,,airport_breakdown,,,,Abad,departures,99.85714285714286
-Spain,0,660.5714285714286,,airport_breakdown,,,,Albacete,departures,315.7142857142857
-Spain,0,71363.71428571429,,airport_breakdown,,,,Alicante,departures,35680.28571428572
-Spain,0,7196.714285714285,,airport_breakdown,,,,Almeria,departures,3596.0
-Spain,0,9285.0,,airport_breakdown,,,,Asturias,departures,4643.285714285715
-Spain,0,1450.0,,airport_breakdown,,,,Badajoz,departures,721.7142857142857
-Spain,0,242823.7142857143,,airport_breakdown,,,,Barcelona,departures,121425.0
-Spain,0,33905.28571428572,,airport_breakdown,,,,Bilbao,departures,16943.14285714286
-Spain,0,610.4285714285714,,airport_breakdown,,,,Burgos,departures,324.0
-Spain,0,193.25,,airport_breakdown,,,,Ciudad Real Central,departures,92.5
-Spain,0,281.42857142857144,,airport_breakdown,,,,Cordoba,departures,141.0
-Spain,0,37720.857142857145,,airport_breakdown,,,,Fuerteventura,departures,18862.571428571428
-Spain,0,11111.285714285714,,airport_breakdown,,,,Gerona,departures,5413.857142857143
-Spain,0,95878.85714285714,,airport_breakdown,,,,Gran Canaria,departures,47997.42857142857
-Spain,0,7782.142857142857,,airport_breakdown,,,,Granada,departures,3881.5714285714284
-Spain,0,3842.4285714285716,,airport_breakdown,,,,Hierro,departures,1911.7142857142858
-Spain,0,57626.857142857145,,airport_breakdown,,,,Ibiza,departures,28810.714285714286
-Spain,0,12213.714285714286,,airport_breakdown,,,,Jerez De La Frontera,departures,6109.714285714285
-Spain,0,8644.0,,airport_breakdown,,,,La Coruna,departures,4305.285714285715
-Spain,0,1525.5714285714287,,airport_breakdown,,,,La Gomera,departures,763.7142857142857
-Spain,0,15691.0,,airport_breakdown,,,,La Palma,departures,7835.857142857143
-Spain,0,45768.71428571428,,airport_breakdown,,,,Lanzarote,departures,22882.714285714286
-Spain,0,939.1428571428571,,airport_breakdown,,,,Leon,departures,437.14285714285717
-Spain,0,2044.0,,airport_breakdown,,,,Lleida - Alguaire,departures,1001.2857142857143
-Spain,0,513.1428571428571,,airport_breakdown,,,,Logrono,departures,254.57142857142858
-Spain,0,302437.5714285714,,airport_breakdown,,,,Madrid - Barajas,departures,151264.57142857142
-Spain,0,2393.1428571428573,,airport_breakdown,,,,Madrid - Cuatro Viento,departures,1255.5714285714287
-Spain,0,1339.5714285714287,,airport_breakdown,,,,Madrid - Getafe,departures,667.8571428571429
-Spain,0,1489.7142857142858,,airport_breakdown,,,,Madrid - Torrejon,departures,722.8571428571429
-Spain,0,24690.85714285714,,airport_breakdown,,,,Mahon,departures,12346.0
-Spain,0,6884.428571428572,,airport_breakdown,,,,Melilla,departures,3437.8571428571427
-Spain,0,3825.1428571428573,,airport_breakdown,,,,Murcia San Javier,departures,1902.0
-Spain,0,104214.42857142857,,airport_breakdown,,,,Málaga,departures,52124.42857142857
-Spain,0,2978.1428571428573,,airport_breakdown,,,,Noain Pamplona,departures,1491.4285714285713
-Spain,0,210.28571428571428,,airport_breakdown,,,,Palma - Son San Juan,departures,109.0
-Spain,0,161339.7142857143,,airport_breakdown,,,,Palma de Mallorca,departures,80664.85714285714
-Spain,0,3926.0,,airport_breakdown,,,,Región de Murcia International Airport,departures,1965.5
-Spain,0,5871.142857142857,,airport_breakdown,,,,Reus,departures,2865.8571428571427
-Spain,0,4337.0,,airport_breakdown,,,,Rota,departures,2186.285714285714
-Spain,0,1630.2857142857142,,airport_breakdown,,,,Sabadell,departures,1053.5714285714287
-Spain,0,2864.0,,airport_breakdown,,,,Salamanca Matalan,departures,1423.142857142857
-Spain,0,3976.4285714285716,,airport_breakdown,,,,San Sebastian,departures,1980.857142857143
-Spain,0,6931.857142857143,,airport_breakdown,,,,Santander,departures,3461.8571428571427
-Spain,0,16193.57142857143,,airport_breakdown,,,,Santiago,departures,8128.571428571428
-Spain,0,38917.28571428572,,airport_breakdown,,,,Sevilla,departures,19462.85714285714
-Spain,0,4451.0,,airport_breakdown,,,,Seville - Moron,departures,2246.714285714286
-Spain,0,557.5714285714286,,airport_breakdown,,,,Son Bonet,departures,281.14285714285717
-Spain,0,53477.42857142857,,airport_breakdown,,,,Tenerife North,departures,26737.0
-Spain,0,51987.0,,airport_breakdown,,,,Tenerife Sur - Reina Sofia,departures,25999.85714285714
-Spain,0,51170.28571428572,,airport_breakdown,,,,Valencia,departures,25583.571428571428
-Spain,0,153.71428571428572,,airport_breakdown,,,,Valencia - Requena,departures,62.714285714285715
-Spain,0,2397.4285714285716,,airport_breakdown,,,,Valladolid,departures,1138.2857142857142
-Spain,0,7842.714285714285,,airport_breakdown,,,,Vigo,departures,3901.5714285714284
-Spain,0,7924.142857142857,,airport_breakdown,,,,Vitoria,departures,3953.285714285714
-Spain,0,7333.0,,airport_breakdown,,,,Zaragoza,departures,3671.4285714285716
-Sweden,0,50509.142857142855,,airport_breakdown,,,,Göteborg,departures,25248.428571428572
-Sweden,0,171170.7142857143,,airport_breakdown,,,,Stockholm - Arlanda,departures,85586.85714285714
-Sweden,0,37907.57142857143,,airport_breakdown,,,,Stockholm - Bromma,departures,18942.14285714286
-Switzerland,0,136962.14285714287,,airport_breakdown,,,,Geneva,departures,68501.14285714286
-Switzerland,0,5802.857142857143,,airport_breakdown,,,,Sion,departures,2916.4285714285716
-Switzerland,0,196045.85714285713,,airport_breakdown,,,,Zürich,departures,98041.57142857143
-Turkey,0,79000.57142857143,,airport_breakdown,,,,Ankara - Esenboğa,departures,39520.28571428572
-Turkey,0,129509.85714285714,,airport_breakdown,,,,Antalya,departures,64748.71428571428
-Turkey,0,224355.42857142858,,airport_breakdown,,,,Istanbul Atatürk,departures,112180.71428571429
-Turkey,0,181661.0,,airport_breakdown,,,,Istanbul Sabiha Gökçen,departures,90825.42857142857
-Turkey,0,62847.57142857143,,airport_breakdown,,,,Izmir - Adnan Menderes,departures,31423.428571428572
-Turkey,0,187860.6,,airport_breakdown,,,,iGA Istanbul Airport,departures,93929.0
-Ukraine,0,71860.42857142857,,airport_breakdown,,,,Kiev - Boryspil,departures,35932.71428571428
-United Kingdom,0,42487.142857142855,,airport_breakdown,,,,Aberdeen,departures,21273.285714285714
-United Kingdom,0,37716.0,,airport_breakdown,,,,Belfast - Aldergrove,departures,18872.285714285714
-United Kingdom,0,25870.0,,airport_breakdown,,,,Belfast - City Airport,departures,12934.42857142857
-United Kingdom,0,15306.57142857143,,airport_breakdown,,,,Biggin Hill,departures,7646.571428571428
-United Kingdom,0,77629.85714285714,,airport_breakdown,,,,Birmingham,departures,38819.71428571428
-United Kingdom,0,48530.57142857143,,airport_breakdown,,,,Bristol,departures,24162.285714285714
-United Kingdom,0,54635.42857142857,,airport_breakdown,,,,East Midlands,departures,27308.0
-United Kingdom,0,90407.0,,airport_breakdown,,,,Edinburgh,departures,45208.57142857143
-United Kingdom,0,23987.714285714286,,airport_breakdown,,,,Farnborough,departures,11994.142857142857
-United Kingdom,0,63954.71428571428,,airport_breakdown,,,,Glasgow,departures,32000.714285714286
-United Kingdom,0,54380.142857142855,,airport_breakdown,,,,London - City,departures,27178.714285714286
-United Kingdom,0,191442.42857142858,,airport_breakdown,,,,London - Gatwick,departures,95716.85714285714
-United Kingdom,0,349496.28571428574,,airport_breakdown,,,,London - Heathrow,departures,174729.7142857143
-United Kingdom,0,101459.14285714286,,airport_breakdown,,,,London - Luton,departures,50723.0
-United Kingdom,0,143778.85714285713,,airport_breakdown,,,,London - Stansted,departures,71900.42857142857
-United Kingdom,0,2317.1428571428573,,airport_breakdown,,,,Londonderry - Eglinton,departures,1157.7142857142858
-United Kingdom,0,141229.7142857143,,airport_breakdown,,,,Manchester,departures,70616.71428571429
-United Kingdom,0,26221.4,,airport_breakdown,,,,Newcastle,departures,13105.6
-United Kingdom,0,26888.714285714286,,airport_breakdown,,,,Southampton,departures,13425.0
-Albania,0,22178.571428571428,,airport_breakdown,,,,Tirana,arrivals,11091.142857142857
-Armenia,0,18112.85714285714,,airport_breakdown,,,,Yerevan,arrivals,9044.714285714286
-Austria,0,14181.42857142857,,airport_breakdown,,,,Graz,arrivals,7111.714285714285
-Austria,0,14594.857142857143,,airport_breakdown,,,,Innsbruck,arrivals,7304.142857142857
-Austria,0,5278.571428571428,,airport_breakdown,,,,Klagenfurt,arrivals,2635.0
-Austria,0,9722.857142857143,,airport_breakdown,,,,Linz,arrivals,4892.142857142857
-Austria,0,21829.85714285714,,airport_breakdown,,,,Salzburg,arrivals,10934.714285714286
-Austria,0,189267.2857142857,,airport_breakdown,,,,Vienna,arrivals,94635.85714285714
-Belgium,0,12215.714285714286,,airport_breakdown,,,,Antwerp,arrivals,6114.0
-Belgium,0,168356.42857142858,,airport_breakdown,,,,Brussels,arrivals,84182.28571428571
-Belgium,0,41222.28571428572,,airport_breakdown,,,,Charleroi,arrivals,20595.571428571428
-Belgium,0,32664.85714285714,,airport_breakdown,,,,Liège,arrivals,16332.42857142857
-Belgium,0,5975.857142857143,,airport_breakdown,,,,Ostend-Bruges,arrivals,3001.1428571428573
-Bosnia and Herzegovina,0,9817.857142857143,,airport_breakdown,,,,Sarajevo,arrivals,4908.571428571428
-Bulgaria,0,45984.0,,airport_breakdown,,,,Sofia,arrivals,22982.85714285714
-Croatia,0,626.0,,airport_breakdown,,,,Lučko,arrivals,303.2857142857143
-Croatia,0,33411.28571428572,,airport_breakdown,,,,Zagreb,arrivals,16711.428571428572
-Cyprus,0,45565.0,,airport_breakdown,,,,Larnaca,arrivals,22786.85714285714
-Cyprus,0,14288.57142857143,,airport_breakdown,,,,Paphos,arrivals,7144.142857142857
-Czech Republic,0,7545.857142857143,,airport_breakdown,,,,Brno-Tuřany,arrivals,3784.4285714285716
-Czech Republic,0,1473.857142857143,,airport_breakdown,,,,Karlovy Vary,arrivals,759.7142857142857
-Czech Republic,0,5631.571428571428,,airport_breakdown,,,,Ostrava,arrivals,2823.285714285714
-Czech Republic,0,102391.42857142857,,airport_breakdown,,,,Prague,arrivals,51236.857142857145
-Denmark,0,190846.57142857142,,airport_breakdown,,,,Copenhagen - Kastrup,arrivals,95448.71428571429
-Estonia,0,31881.285714285714,,airport_breakdown,,,,Tallinn,arrivals,15936.285714285714
-Estonia,0,1219.5714285714287,,airport_breakdown,,,,Tartu,arrivals,610.5714285714286
-Finland,0,132721.0,,airport_breakdown,,,,Helsinki - Vantaa,arrivals,66390.28571428571
-France,0,3156.5714285714284,,airport_breakdown,,,,Agen-La Garenne,arrivals,1611.7142857142858
-France,0,14889.57142857143,,airport_breakdown,,,,Ajaccio-Napoléon-Bonaparte,arrivals,7445.285714285715
-France,0,993.8571428571429,,airport_breakdown,,,,Albert-Bray,arrivals,503.85714285714283
-France,0,1526.2857142857142,,airport_breakdown,,,,Angers-Marcé,arrivals,778.5714285714286
-France,0,3132.285714285714,,airport_breakdown,,,,Annecy-Meythet,arrivals,1615.0
-France,0,1522.5714285714287,,airport_breakdown,,,,Annemasse,arrivals,711.1428571428571
-France,0,5864.428571428572,,airport_breakdown,,,,Avignon-Caumont,arrivals,3068.8571428571427
-France,0,14035.42857142857,,airport_breakdown,,,,Bastia-Poretta,arrivals,7010.428571428572
-France,0,19371.14285714286,,airport_breakdown,,,,Beauvais-Tillé,arrivals,9692.285714285714
-France,0,3324.0,,airport_breakdown,,,,Bergerac-Roumanière,arrivals,1686.0
-France,0,10766.142857142857,,airport_breakdown,,,,Biarritz-Bayonne-Anglet,arrivals,5403.285714285715
-France,0,51883.857142857145,,airport_breakdown,,,,Bordeaux-Mérignac,arrivals,25940.85714285714
-France,0,13015.42857142857,,airport_breakdown,,,,Brest-Bretagne,arrivals,6498.142857142857
-France,0,2659.0,,airport_breakdown,,,,Brive-Souillac,arrivals,1346.142857142857
-France,0,60841.28571428572,,airport_breakdown,,,,Bâle-Mulhouse,arrivals,30412.85714285714
-France,0,5092.142857142857,,airport_breakdown,,,,Béziers-Vias,arrivals,2576.714285714286
-France,0,5035.714285714285,,airport_breakdown,,,,Caen-Carpiquet,arrivals,2544.4285714285716
-France,0,5339.285714285715,,airport_breakdown,,,,Calvi-Sainte-Catherine,arrivals,2683.4285714285716
-France,0,12549.714285714286,,airport_breakdown,,,,Cannes-Mandelieu,arrivals,6255.857142857143
-France,0,4569.142857142857,,airport_breakdown,,,,Carcassonne-Salvaza,arrivals,2322.1428571428573
-France,0,6007.428571428572,,airport_breakdown,,,,Chambéry-Aix-les-Bains,arrivals,3026.0
-France,0,3267.8571428571427,,airport_breakdown,,,,Châlons-Vatry,arrivals,1644.7142857142858
-France,0,2298.5714285714284,,airport_breakdown,,,,Châteauroux-Déols,arrivals,1175.0
-France,0,9374.57142857143,,airport_breakdown,,,,Clermont-Ferrand-Auvergne,arrivals,4712.0
-France,0,2953.5714285714284,,airport_breakdown,,,,Deauville-Normandie,arrivals,1501.0
-France,0,2483.4285714285716,,airport_breakdown,,,,Dinard-Pleurtuit-Saint-Malo,arrivals,1257.4285714285713
-France,0,2394.8571428571427,,airport_breakdown,,,,Dôle-Tavaux,arrivals,1221.0
-France,0,9463.285714285714,,airport_breakdown,,,,Figari-Sud Corse,arrivals,4744.714285714285
-France,0,6080.428571428572,,airport_breakdown,,,,Grenoble-Isère,arrivals,3067.0
-France,0,9584.0,,airport_breakdown,,,,Hyères-Le Palyvestre,arrivals,4797.285714285715
-France,0,2650.4285714285716,,airport_breakdown,,,,Istres-Le Tubé,arrivals,1316.857142857143
-France,0,4068.1428571428573,,airport_breakdown,,,,La Rochelle-Ile de Ré,arrivals,2061.285714285714
-France,0,742.5714285714286,,airport_breakdown,,,,Lannion,arrivals,376.42857142857144
-France,0,784.1428571428571,,airport_breakdown,,,,Le Havre-Octeville,arrivals,397.85714285714283
-France,0,1223.5714285714287,,airport_breakdown,,,,Le Mans,arrivals,625.8571428571429
-France,0,18730.14285714286,,airport_breakdown,,,,Lille-Lesquin,arrivals,9356.142857142857
-France,0,5266.0,,airport_breakdown,,,,Limoges-Bellegarde,arrivals,2648.285714285714
-France,0,4968.857142857143,,airport_breakdown,,,,Lorient-Lann Bihoué,arrivals,2468.4285714285716
-France,0,8646.57142857143,,airport_breakdown,,,,Lyon-Bron,arrivals,4328.714285714285
-France,0,83331.85714285714,,airport_breakdown,,,,Lyon-Saint-Exupéry,arrivals,41645.28571428572
-France,0,76214.28571428571,,airport_breakdown,,,,Marseille-Provence,arrivals,38101.71428571428
-France,0,4317.0,,airport_breakdown,,,,Metz-Nancy-Lorraine,arrivals,2166.714285714286
-France,0,23922.714285714286,,airport_breakdown,,,,Montpellier-Méditerranée,arrivals,11995.714285714286
-France,0,44238.71428571428,,airport_breakdown,,,,Nantes-Atlantique,arrivals,22129.285714285714
-France,0,111243.0,,airport_breakdown,,,,Nice-Côte d’Azur,arrivals,55613.42857142857
-France,0,3936.4285714285716,,airport_breakdown,,,,Nîmes-Garons,arrivals,1908.0
-France,0,368810.4285714286,,airport_breakdown,,,,Paris-Charles-de-Gaulle,arrivals,184342.7142857143
-France,0,46696.142857142855,,airport_breakdown,,,,Paris-Le Bourget,arrivals,23339.714285714286
-France,0,171567.57142857142,,airport_breakdown,,,,Paris-Orly,arrivals,85824.14285714286
-France,0,8808.857142857143,,airport_breakdown,,,,Pau-Pyrénées,arrivals,4377.857142857143
-France,0,8919.0,,airport_breakdown,,,,Perpignan-Rivesaltes,arrivals,4466.857142857143
-France,0,4224.428571428572,,airport_breakdown,,,,Poitiers-Biard,arrivals,2150.714285714286
-France,0,2075.0,,airport_breakdown,,,,Quimper-Pluguffan,arrivals,1050.142857142857
-France,0,13721.0,,airport_breakdown,,,,Rennes-Saint-Jacques,arrivals,6858.571428571428
-France,0,3099.1428571428573,,airport_breakdown,,,,Rodez-Marcillac,arrivals,1574.4285714285713
-France,0,2169.0,,airport_breakdown,,,,Rouen,arrivals,1108.0
-France,0,1890.5714285714287,,airport_breakdown,,,,Saint-Etienne-Bouthéon,arrivals,956.7142857142857
-France,0,2400.1428571428573,,airport_breakdown,,,,Saint-Nazaire-Montoir,arrivals,1222.4285714285713
-France,0,15893.857142857143,,airport_breakdown,,,,Strasbourg-Entzheim,arrivals,7951.0
-France,0,5558.142857142857,,airport_breakdown,,,,Tarbes-Lourdes Pyrénées,arrivals,2790.8571428571427
-France,0,71243.57142857143,,airport_breakdown,,,,Toulouse-Blagnac,arrivals,35477.0
-France,0,2728.4285714285716,,airport_breakdown,,,,Tours-Val de Loire,arrivals,1368.5714285714287
-France,0,9803.714285714286,,airport_breakdown,,,,Toussus-le-Noble,arrivals,4849.142857142857
-Georgia,0,24648.14285714286,,airport_breakdown,,,,Tbilisi,arrivals,12324.0
-Germany,0,84955.57142857143,,airport_breakdown,,,,Berlin - Brandenburg,arrivals,42587.57142857143
-Germany,0,158519.2,,airport_breakdown,,,,Berlin - Tegel,arrivals,79303.0
-Germany,0,22685.85714285714,,airport_breakdown,,,,Bremen,arrivals,11415.57142857143
-Germany,0,109811.57142857143,,airport_breakdown,,,,Cologne-Bonn,arrivals,55146.71428571428
-Germany,0,15294.142857142857,,airport_breakdown,,,,Dresden,arrivals,7672.714285714285
-Germany,0,155957.0,,airport_breakdown,,,,Dusseldorf,arrivals,78006.28571428571
-Germany,0,4219.857142857143,,airport_breakdown,,,,Erfurt,arrivals,2154.4285714285716
-Germany,0,368789.14285714284,,airport_breakdown,,,,Frankfurt,arrivals,184410.57142857142
-Germany,0,109405.42857142857,,airport_breakdown,,,,Hamburg,arrivals,54759.857142857145
-Germany,0,47006.28571428572,,airport_breakdown,,,,Hanover,arrivals,23549.714285714286
-Germany,0,63503.142857142855,,airport_breakdown,,,,Leipzig-Halle,arrivals,31768.85714285714
-Germany,0,14759.714285714286,,airport_breakdown,,,,Muenster-Osnabrueck,arrivals,7580.285714285715
-Germany,0,287646.28571428574,,airport_breakdown,,,,Munich,arrivals,143808.57142857142
-Germany,0,36950.0,,airport_breakdown,,,,Nuremberg,arrivals,18607.85714285714
-Germany,0,6483.571428571428,,airport_breakdown,,,,Saarbruecken,arrivals,3284.1428571428573
-Germany,0,89363.85714285714,,airport_breakdown,,,,Stuttgart,arrivals,44680.0
-Greece,0,4230.428571428572,,airport_breakdown,,,,Aktion,arrivals,2141.1428571428573
-Greece,0,161968.7142857143,,airport_breakdown,,,,Athens,arrivals,81025.28571428571
-Greece,0,18898.571428571428,,airport_breakdown,,,,Corfu,arrivals,9431.0
-Greece,0,42311.142857142855,,airport_breakdown,,,,Heraklion,arrivals,21151.714285714286
-Greece,0,4899.571428571428,,airport_breakdown,,,,Kefallinia,arrivals,2463.0
-Greece,0,20045.0,,airport_breakdown,,,,Khania - Souda,arrivals,10019.714285714286
-Greece,0,14249.714285714286,,airport_breakdown,,,,Kos,arrivals,7117.857142857143
-Greece,0,12509.42857142857,,airport_breakdown,,,,Mikonos,arrivals,6257.285714285715
-Greece,0,29232.571428571428,,airport_breakdown,,,,Rodos,arrivals,14625.57142857143
-Greece,0,14421.0,,airport_breakdown,,,,Santorini,arrivals,7209.571428571428
-Greece,0,3129.5714285714284,,airport_breakdown,,,,Skiathos,arrivals,1572.2857142857142
-Greece,0,42988.0,,airport_breakdown,,,,Thessaloniki,arrivals,21530.85714285714
-Greece,0,9365.42857142857,,airport_breakdown,,,,Zakinthos,arrivals,4677.142857142857
-Hungary,0,81831.0,,airport_breakdown,,,,Budapest - Ferihegy,arrivals,40906.57142857143
-Ireland,0,4501.0,,airport_breakdown,,,,Connaught,arrivals,2256.714285714286
-Ireland,0,18246.85714285714,,airport_breakdown,,,,Cork,arrivals,9119.42857142857
-Ireland,0,1591.0,,airport_breakdown,,,,Donegal,arrivals,796.7142857142857
-Ireland,0,165868.2857142857,,airport_breakdown,,,,Dublin,arrivals,82946.42857142857
-Ireland,0,3539.4285714285716,,airport_breakdown,,,,Kerry - Farranfore,arrivals,1770.7142857142858
-Ireland,0,16292.714285714286,,airport_breakdown,,,,Shannon,arrivals,8141.857142857143
-Ireland,0,46.142857142857146,,airport_breakdown,,,,Sligo,arrivals,23.714285714285715
-Ireland,0,528.5714285714286,,airport_breakdown,,,,Waterford,arrivals,266.14285714285717
-Ireland,0,753.0,,airport_breakdown,,,,Weston,arrivals,382.14285714285717
-Israel,0,125770.66666666667,,airport_breakdown,,,,Ben Gurion International,arrivals,62896.0
-Israel,0,61551.0,,airport_breakdown,,,,Tel Aviv - Ben Gurion International,arrivals,30767.0
-Italy,0,67729.0,,airport_breakdown,,,,Bergamo,arrivals,33888.0
-Italy,0,55162.42857142857,,airport_breakdown,,,,Bologna,arrivals,27571.571428571428
-Italy,0,15400.0,,airport_breakdown,,,,Brindisi,arrivals,7701.714285714285
-Italy,0,55845.0,,airport_breakdown,,,,Catania,arrivals,27924.428571428572
-Italy,0,82306.85714285714,,airport_breakdown,,,,Milan - Linate,arrivals,41208.857142857145
-Italy,0,150632.14285714287,,airport_breakdown,,,,Milan - Malpensa,arrivals,75320.57142857143
-Italy,0,58124.57142857143,,airport_breakdown,,,,Naples,arrivals,29069.14285714286
-Italy,0,30994.0,,airport_breakdown,,,,Palermo Falcone-Borsellino,arrivals,15496.5
-Italy,0,32966.142857142855,,airport_breakdown,,,,Pisa San Giusto,arrivals,16436.571428571428
-Italy,0,40472.71428571428,,airport_breakdown,,,,Rome - Ciampino,arrivals,20251.0
-Italy,0,216871.42857142858,,airport_breakdown,,,,Rome - Fiumicino,arrivals,108429.42857142857
-Italy,0,31551.14285714286,,airport_breakdown,,,,Torino Caselle,arrivals,15780.142857142857
-Italy,0,14556.0,,airport_breakdown,,,,Treviso,arrivals,7277.142857142857
-Italy,0,67531.71428571429,,airport_breakdown,,,,Venice,arrivals,33764.28571428572
-Latvia,0,478.2857142857143,,airport_breakdown,,,,Liepaja,arrivals,239.57142857142858
-Latvia,0,57968.142857142855,,airport_breakdown,,,,Riga,arrivals,28993.571428571428
-Latvia,0,8.666666666666666,,airport_breakdown,,,,Tukums Jurmala,arrivals,4.0
-Latvia,0,11.714285714285714,,airport_breakdown,,,,Ventspils,arrivals,5.571428571428571
-Lithuania,0,7588.142857142857,,airport_breakdown,,,,Kaunas,arrivals,3800.714285714286
-Lithuania,0,3004.8571428571427,,airport_breakdown,,,,Palanga,arrivals,1501.857142857143
-Lithuania,0,2291.714285714286,,airport_breakdown,,,,Siauliai,arrivals,1147.5714285714287
-Lithuania,0,32909.142857142855,,airport_breakdown,,,,Vilnius,arrivals,16461.14285714286
-Luxembourg,0,57343.71428571428,,airport_breakdown,,,,Luxembourg,arrivals,28694.0
-Malta,0,40517.42857142857,,airport_breakdown,,,,Malta,arrivals,20211.14285714286
-Moldova,0,19465.428571428572,,airport_breakdown,,,,Chișinău,arrivals,9743.714285714286
-Montenegro,0,10150.142857142857,,airport_breakdown,,,,Podgorica,arrivals,5074.428571428572
-Morocco,0,10267.0,,airport_breakdown,,,,Al Massira,arrivals,5129.6
-Morocco,0,9499.6,,airport_breakdown,,,,Ibn Batouta,arrivals,4749.4
-Morocco,0,26707.8,,airport_breakdown,,,,Menara,arrivals,13363.8
-Morocco,0,57196.6,,airport_breakdown,,,,Mohammed V International,arrivals,28571.2
-Morocco,0,8733.8,,airport_breakdown,,,,Rabat-Salé,arrivals,4358.0
-Morocco,0,7770.2,,airport_breakdown,,,,Saïss,arrivals,3894.0
-Netherlands,0,384860.71428571426,,airport_breakdown,,,,Amsterdam - Schiphol,arrivals,192399.57142857142
-Netherlands,0,8665.285714285714,,airport_breakdown,,,,Groningen,arrivals,4367.571428571428
-Netherlands,0,2301.8,,airport_breakdown,,,,Lelystad,arrivals,1127.2
-Netherlands,0,8122.857142857143,,airport_breakdown,,,,Maastricht-Aachen,arrivals,4066.5714285714284
-Netherlands,0,19345.571428571428,,airport_breakdown,,,,Rotterdam,arrivals,9708.42857142857
-Norway,0,11026.6,,airport_breakdown,,,,Alesund,arrivals,5516.0
-Norway,0,7170.4,,airport_breakdown,,,,Alta,arrivals,3586.6
-Norway,0,3088.8,,airport_breakdown,,,,Andenes,arrivals,1542.6
-Norway,0,2785.8,,airport_breakdown,,,,Bardufoss,arrivals,1393.4
-Norway,0,1965.2,,airport_breakdown,,,,Batsfjord,arrivals,979.2
-Norway,0,73407.0,,airport_breakdown,,,,Bergen,arrivals,36738.42857142857
-Norway,0,1364.0,,airport_breakdown,,,,Berlevåg,arrivals,682.8
-Norway,0,31363.4,,airport_breakdown,,,,Bodø,arrivals,15664.6
-Norway,0,5790.8,,airport_breakdown,,,,Bronnoysund Bronnoy,arrivals,2896.0
-Norway,0,6714.0,,airport_breakdown,,,,Florø,arrivals,3359.4
-Norway,0,2818.8,,airport_breakdown,,,,Forde Bringeland,arrivals,1410.4
-Norway,0,8926.4,,airport_breakdown,,,,Hammerfest,arrivals,4475.2
-Norway,0,7929.8,,airport_breakdown,,,,Harstad - Narvik Evenes,arrivals,3967.0
-Norway,0,5299.857142857143,,airport_breakdown,,,,Haugesund,arrivals,2652.4285714285716
-Norway,0,1742.2,,airport_breakdown,,,,Honningsvåg Valan,arrivals,873.0
-Norway,0,6331.8,,airport_breakdown,,,,Kirkenes Høybuktmoen,arrivals,3167.2
-Norway,0,10914.0,,airport_breakdown,,,,Kristiansand Kjevik,arrivals,5468.4
-Norway,0,8096.0,,airport_breakdown,,,,Kristiansund Kvernberget,arrivals,4042.0
-Norway,0,2047.2,,airport_breakdown,,,,Lakselv Banak,arrivals,1022.6
-Norway,0,4677.4,,airport_breakdown,,,,Leknes,arrivals,2342.0
-Norway,0,2143.0,,airport_breakdown,,,,Mehamn,arrivals,1067.2
-Norway,0,4244.0,,airport_breakdown,,,,Mo i Rana Røssvoll,arrivals,2124.0
-Norway,0,4561.4,,airport_breakdown,,,,Molde Årø,arrivals,2281.6
-Norway,0,3088.6,,airport_breakdown,,,,Mosjøen Kjærstad,arrivals,1545.2
-Norway,0,2106.2,,airport_breakdown,,,,Namsos Høknesøra,arrivals,1053.4
-Norway,0,3659.0,,airport_breakdown,,,,Orsta¿Volda Hovden,arrivals,1831.0
-Norway,0,189531.7142857143,,airport_breakdown,,,,Oslo - Gardermoen,arrivals,94757.42857142857
-Norway,0,1283.8,,airport_breakdown,,,,Roros,arrivals,641.8
-Norway,0,1972.6,,airport_breakdown,,,,Rorvik Ryum,arrivals,987.0
-Norway,0,1087.6,,airport_breakdown,,,,Rost,arrivals,544.8
-Norway,0,1856.0,,airport_breakdown,,,,Sandane  Anda,arrivals,930.0
-Norway,0,3178.4,,airport_breakdown,,,,Sandnessjøen Stokka,arrivals,1591.4
-Norway,0,4307.4,,airport_breakdown,,,,Sogndal Haukåsen,arrivals,2153.2
-Norway,0,1457.8,,airport_breakdown,,,,Sorkjosen,arrivals,729.6
-Norway,0,52914.42857142857,,airport_breakdown,,,,Stavanger,arrivals,26487.714285714286
-Norway,0,4282.4,,airport_breakdown,,,,Stokmarknes Skagen,arrivals,2142.4
-Norway,0,1529.0,,airport_breakdown,,,,Svalbard Longyear,arrivals,765.6
-Norway,0,3334.0,,airport_breakdown,,,,Svolvær Helle,arrivals,1668.4
-Norway,0,33984.6,,airport_breakdown,,,,Tromsø,arrivals,16981.4
-Norway,0,45211.57142857143,,airport_breakdown,,,,Trondheim,arrivals,22599.428571428572
-Norway,0,5582.6,,airport_breakdown,,,,Vadsø,arrivals,2792.2
-Norway,0,1851.8,,airport_breakdown,,,,Vardø Svartnes,arrivals,926.6
-Norway,0,950.0,,airport_breakdown,,,,Værøy,arrivals,481.0
-Poland,0,2942.714285714286,,airport_breakdown,,,,Bydgoszcz,arrivals,1474.7142857142858
-Poland,0,32486.714285714286,,airport_breakdown,,,,Gdansk,arrivals,16252.285714285714
-Poland,0,26967.714285714286,,airport_breakdown,,,,Katowice - Pyrzowice,arrivals,13493.57142857143
-Poland,0,42118.57142857143,,airport_breakdown,,,,Krakow - Balice,arrivals,21071.14285714286
-Poland,0,3254.4285714285716,,airport_breakdown,,,,Lodz - Lublinek,arrivals,1631.2857142857142
-Poland,0,2804.1428571428573,,airport_breakdown,,,,Lublin,arrivals,1404.7142857142858
-Poland,0,1175.0,,airport_breakdown,,,,Olsztyn-Mazury,arrivals,590.2857142857143
-Poland,0,16777.85714285714,,airport_breakdown,,,,Poznan - Lawica,arrivals,8396.57142857143
-Poland,0,540.5,,airport_breakdown,,,,Radom,arrivals,268.1666666666667
-Poland,0,6850.714285714285,,airport_breakdown,,,,Rzeszow - Jasionka,arrivals,3430.5714285714284
-Poland,0,4481.714285714285,,airport_breakdown,,,,Szczecin - Goleniów,arrivals,2241.8571428571427
-Poland,0,133008.57142857142,,airport_breakdown,,,,Warszawa - Chopina,arrivals,66472.0
-Poland,0,15332.57142857143,,airport_breakdown,,,,Warszawa - Modlin,arrivals,7686.714285714285
-Poland,0,21821.428571428572,,airport_breakdown,,,,Wroclaw - Strachowice,arrivals,10911.57142857143
-Poland,0,827.8571428571429,,airport_breakdown,,,,Zielona Gora - Babimost,arrivals,415.42857142857144
-Portugal,0,4739.428571428572,,airport_breakdown,,,,Cascais,arrivals,2309.5714285714284
-Portugal,0,44452.857142857145,,airport_breakdown,,,,Faro,arrivals,22228.14285714286
-Portugal,0,1427.2857142857142,,airport_breakdown,,,,Flores,arrivals,715.0
-Portugal,0,3944.4285714285716,,airport_breakdown,,,,Horta,arrivals,1969.4285714285713
-Portugal,0,157555.14285714287,,airport_breakdown,,,,Lisbon,arrivals,78789.71428571429
-Portugal,0,19450.714285714286,,airport_breakdown,,,,Madeira,arrivals,9729.0
-Portugal,0,197.6,,airport_breakdown,,,,Montijo,arrivals,96.6
-Portugal,0,16154.714285714286,,airport_breakdown,,,,Ponta Delgada,arrivals,8073.714285714285
-Portugal,0,69797.85714285714,,airport_breakdown,,,,Porto,arrivals,34906.42857142857
-Portugal,0,2445.714285714286,,airport_breakdown,,,,Porto Santo,arrivals,1229.5714285714287
-Portugal,0,2348.4285714285716,,airport_breakdown,,,,Santa Maria,arrivals,1170.142857142857
-Republic of North Macedonia,0,13614.285714285714,,airport_breakdown,,,,Skopje,arrivals,6807.428571428572
-Romania,0,4568.428571428572,,airport_breakdown,,,,Bucharest - Băneasa,arrivals,2285.8571428571427
-Romania,0,89954.42857142857,,airport_breakdown,,,,Bucharest - Otopeni,arrivals,44968.71428571428
-Serbia,0,52841.28571428572,,airport_breakdown,,,,Belgrade - Nikola Tesla,arrivals,26421.14285714286
-Slovakia,0,16441.14285714286,,airport_breakdown,,,,Bratislava,arrivals,8235.857142857143
-Slovenia,0,20894.571428571428,,airport_breakdown,,,,Ljubljana,arrivals,10452.714285714286
-Slovenia,0,1721.142857142857,,airport_breakdown,,,,Maribor,arrivals,874.0
-Slovenia,0,1611.5714285714287,,airport_breakdown,,,,Portorož,arrivals,815.0
-Spain,0,199.42857142857142,,airport_breakdown,,,,Abad,arrivals,99.57142857142857
-Spain,0,660.5714285714286,,airport_breakdown,,,,Albacete,arrivals,344.85714285714283
-Spain,0,71363.71428571429,,airport_breakdown,,,,Alicante,arrivals,35683.42857142857
-Spain,0,7196.714285714285,,airport_breakdown,,,,Almeria,arrivals,3600.714285714286
-Spain,0,9285.0,,airport_breakdown,,,,Asturias,arrivals,4641.714285714285
-Spain,0,1450.0,,airport_breakdown,,,,Badajoz,arrivals,728.2857142857143
-Spain,0,242823.7142857143,,airport_breakdown,,,,Barcelona,arrivals,121398.71428571429
-Spain,0,33905.28571428572,,airport_breakdown,,,,Bilbao,arrivals,16962.14285714286
-Spain,0,610.4285714285714,,airport_breakdown,,,,Burgos,arrivals,286.42857142857144
-Spain,0,193.25,,airport_breakdown,,,,Ciudad Real Central,arrivals,100.75
-Spain,0,281.42857142857144,,airport_breakdown,,,,Cordoba,arrivals,140.42857142857142
-Spain,0,37720.857142857145,,airport_breakdown,,,,Fuerteventura,arrivals,18858.285714285714
-Spain,0,11111.285714285714,,airport_breakdown,,,,Gerona,arrivals,5697.428571428572
-Spain,0,95878.85714285714,,airport_breakdown,,,,Gran Canaria,arrivals,47881.42857142857
-Spain,0,7782.142857142857,,airport_breakdown,,,,Granada,arrivals,3900.5714285714284
-Spain,0,3842.4285714285716,,airport_breakdown,,,,Hierro,arrivals,1930.7142857142858
-Spain,0,57626.857142857145,,airport_breakdown,,,,Ibiza,arrivals,28816.14285714286
-Spain,0,12213.714285714286,,airport_breakdown,,,,Jerez De La Frontera,arrivals,6104.0
-Spain,0,8644.0,,airport_breakdown,,,,La Coruna,arrivals,4338.714285714285
-Spain,0,1525.5714285714287,,airport_breakdown,,,,La Gomera,arrivals,761.8571428571429
-Spain,0,15691.0,,airport_breakdown,,,,La Palma,arrivals,7855.142857142857
-Spain,0,45768.71428571428,,airport_breakdown,,,,Lanzarote,arrivals,22886.0
-Spain,0,939.1428571428571,,airport_breakdown,,,,Leon,arrivals,502.0
-Spain,0,2044.0,,airport_breakdown,,,,Lleida - Alguaire,arrivals,1042.7142857142858
-Spain,0,513.1428571428571,,airport_breakdown,,,,Logrono,arrivals,258.57142857142856
-Spain,0,302437.5714285714,,airport_breakdown,,,,Madrid - Barajas,arrivals,151173.0
-Spain,0,2393.1428571428573,,airport_breakdown,,,,Madrid - Cuatro Viento,arrivals,1137.5714285714287
-Spain,0,1339.5714285714287,,airport_breakdown,,,,Madrid - Getafe,arrivals,671.7142857142857
-Spain,0,1489.7142857142858,,airport_breakdown,,,,Madrid - Torrejon,arrivals,766.8571428571429
-Spain,0,24690.85714285714,,airport_breakdown,,,,Mahon,arrivals,12344.857142857143
-Spain,0,6884.428571428572,,airport_breakdown,,,,Melilla,arrivals,3446.5714285714284
-Spain,0,3825.1428571428573,,airport_breakdown,,,,Murcia San Javier,arrivals,1923.142857142857
-Spain,0,104214.42857142857,,airport_breakdown,,,,Málaga,arrivals,52090.0
-Spain,0,2978.1428571428573,,airport_breakdown,,,,Noain Pamplona,arrivals,1486.7142857142858
-Spain,0,210.28571428571428,,airport_breakdown,,,,Palma - Son San Juan,arrivals,101.28571428571429
-Spain,0,161339.7142857143,,airport_breakdown,,,,Palma de Mallorca,arrivals,80674.85714285714
-Spain,0,3926.0,,airport_breakdown,,,,Región de Murcia International Airport,arrivals,1960.5
-Spain,0,5871.142857142857,,airport_breakdown,,,,Reus,arrivals,3005.285714285714
-Spain,0,4337.0,,airport_breakdown,,,,Rota,arrivals,2150.714285714286
-Spain,0,1630.2857142857142,,airport_breakdown,,,,Sabadell,arrivals,576.7142857142857
-Spain,0,2864.0,,airport_breakdown,,,,Salamanca Matalan,arrivals,1440.857142857143
-Spain,0,3976.4285714285716,,airport_breakdown,,,,San Sebastian,arrivals,1995.5714285714287
-Spain,0,6931.857142857143,,airport_breakdown,,,,Santander,arrivals,3470.0
-Spain,0,16193.57142857143,,airport_breakdown,,,,Santiago,arrivals,8065.0
-Spain,0,38917.28571428572,,airport_breakdown,,,,Sevilla,arrivals,19454.428571428572
-Spain,0,4451.0,,airport_breakdown,,,,Seville - Moron,arrivals,2204.285714285714
-Spain,0,557.5714285714286,,airport_breakdown,,,,Son Bonet,arrivals,276.42857142857144
-Spain,0,53477.42857142857,,airport_breakdown,,,,Tenerife North,arrivals,26740.428571428572
-Spain,0,51987.0,,airport_breakdown,,,,Tenerife Sur - Reina Sofia,arrivals,25987.14285714286
-Spain,0,51170.28571428572,,airport_breakdown,,,,Valencia,arrivals,25586.714285714286
-Spain,0,153.71428571428572,,airport_breakdown,,,,Valencia - Requena,arrivals,91.0
-Spain,0,2397.4285714285716,,airport_breakdown,,,,Valladolid,arrivals,1259.142857142857
-Spain,0,7842.714285714285,,airport_breakdown,,,,Vigo,arrivals,3941.1428571428573
-Spain,0,7924.142857142857,,airport_breakdown,,,,Vitoria,arrivals,3970.8571428571427
-Spain,0,7333.0,,airport_breakdown,,,,Zaragoza,arrivals,3661.5714285714284
-Sweden,0,50509.142857142855,,airport_breakdown,,,,Göteborg,arrivals,25260.714285714286
-Sweden,0,171170.7142857143,,airport_breakdown,,,,Stockholm - Arlanda,arrivals,85583.85714285714
-Sweden,0,37907.57142857143,,airport_breakdown,,,,Stockholm - Bromma,arrivals,18965.428571428572
-Switzerland,0,136962.14285714287,,airport_breakdown,,,,Geneva,arrivals,68461.0
-Switzerland,0,5802.857142857143,,airport_breakdown,,,,Sion,arrivals,2886.4285714285716
-Switzerland,0,196045.85714285713,,airport_breakdown,,,,Zürich,arrivals,98004.28571428571
-Turkey,0,79000.57142857143,,airport_breakdown,,,,Ankara - Esenboğa,arrivals,39480.28571428572
-Turkey,0,129509.85714285714,,airport_breakdown,,,,Antalya,arrivals,64761.142857142855
-Turkey,0,224355.42857142858,,airport_breakdown,,,,Istanbul Atatürk,arrivals,112174.71428571429
-Turkey,0,181661.0,,airport_breakdown,,,,Istanbul Sabiha Gökçen,arrivals,90835.57142857143
-Turkey,0,62847.57142857143,,airport_breakdown,,,,Izmir - Adnan Menderes,arrivals,31424.14285714286
-Turkey,0,187860.6,,airport_breakdown,,,,iGA Istanbul Airport,arrivals,93931.6
-Ukraine,0,71860.42857142857,,airport_breakdown,,,,Kiev - Boryspil,arrivals,35927.71428571428
-United Kingdom,0,42487.142857142855,,airport_breakdown,,,,Aberdeen,arrivals,21213.85714285714
-United Kingdom,0,37716.0,,airport_breakdown,,,,Belfast - Aldergrove,arrivals,18843.714285714286
-United Kingdom,0,25870.0,,airport_breakdown,,,,Belfast - City Airport,arrivals,12935.57142857143
-United Kingdom,0,15306.57142857143,,airport_breakdown,,,,Biggin Hill,arrivals,7660.0
-United Kingdom,0,77629.85714285714,,airport_breakdown,,,,Birmingham,arrivals,38810.142857142855
-United Kingdom,0,48530.57142857143,,airport_breakdown,,,,Bristol,arrivals,24368.285714285714
-United Kingdom,0,54635.42857142857,,airport_breakdown,,,,East Midlands,arrivals,27327.428571428572
-United Kingdom,0,90407.0,,airport_breakdown,,,,Edinburgh,arrivals,45198.42857142857
-United Kingdom,0,23987.714285714286,,airport_breakdown,,,,Farnborough,arrivals,11993.57142857143
-United Kingdom,0,63954.71428571428,,airport_breakdown,,,,Glasgow,arrivals,31954.0
-United Kingdom,0,54380.142857142855,,airport_breakdown,,,,London - City,arrivals,27201.428571428572
-United Kingdom,0,191442.42857142858,,airport_breakdown,,,,London - Gatwick,arrivals,95725.57142857143
-United Kingdom,0,349496.28571428574,,airport_breakdown,,,,London - Heathrow,arrivals,174766.57142857142
-United Kingdom,0,101459.14285714286,,airport_breakdown,,,,London - Luton,arrivals,50736.142857142855
-United Kingdom,0,143778.85714285713,,airport_breakdown,,,,London - Stansted,arrivals,71878.42857142857
-United Kingdom,0,2317.1428571428573,,airport_breakdown,,,,Londonderry - Eglinton,arrivals,1159.4285714285713
-United Kingdom,0,141229.7142857143,,airport_breakdown,,,,Manchester,arrivals,70613.0
-United Kingdom,0,26221.4,,airport_breakdown,,,,Newcastle,arrivals,13115.8
-United Kingdom,0,26888.714285714286,,airport_breakdown,,,,Southampton,arrivals,13463.714285714286
+country,year,total_flights,%_change,chart_type,season,departures,arrivals,airport
+Albania,2017,24559.0,10.036291948564013,country_trends,,,,
+Albania,2018,25515.0,3.8926666395211473,country_trends,,,,
+Albania,2019,28500.0,11.699000587889486,country_trends,,,,
+Albania,2020,15288.0,-46.35789473684211,country_trends,,,,
+Albania,2021,26190.0,71.31083202511775,country_trends,,,,
+Albania,2022,12879.0,-50.824742268041234,country_trends,,,,
+Armenia,2017,21210.0,15.234162773008798,country_trends,,,,
+Armenia,2018,23011.0,8.491277699198484,country_trends,,,,
+Armenia,2019,25556.0,11.059927860588402,country_trends,,,,
+Armenia,2020,9373.0,-63.323681327281264,country_trends,,,,
+Armenia,2021,19439.0,107.39357729648992,country_trends,,,,
+Armenia,2022,9795.0,-49.61160553526416,country_trends,,,,
+Austria,2017,327886.0,0.5624869652693487,country_trends,,,,
+Austria,2018,343331.0,4.710478641967031,country_trends,,,,
+Austria,2019,365761.0,6.533054108134717,country_trends,,,,
+Austria,2020,151426.0,-58.599741361162074,country_trends,,,,
+Austria,2021,172705.0,14.05240843712441,country_trends,,,,
+Austria,2022,96963.0,-43.856286731710135,country_trends,,,,
+Belgium,2017,336728.0,4.208858409051519,country_trends,,,,
+Belgium,2018,339760.0,0.9004300206695071,country_trends,,,,
+Belgium,2019,339194.0,-0.16658817989169128,country_trends,,,,
+Belgium,2020,166216.0,-50.99677470709978,country_trends,,,,
+Belgium,2021,209380.0,25.968619146171257,country_trends,,,,
+Belgium,2022,108640.0,-48.113477887095236,country_trends,,,,
+Bosnia and Herzegovina,2017,11860.0,11.655055545095095,country_trends,,,,
+Bosnia and Herzegovina,2018,12293.0,3.650927487352451,country_trends,,,,
+Bosnia and Herzegovina,2019,12918.0,5.08419425689417,country_trends,,,,
+Bosnia and Herzegovina,2020,5383.0,-58.32946276513392,country_trends,,,,
+Bosnia and Herzegovina,2021,10681.0,98.42095485788593,country_trends,,,,
+Bosnia and Herzegovina,2022,4968.0,-53.48750117030241,country_trends,,,,
+Bulgaria,2017,56774.0,12.199363648939743,country_trends,,,,
+Bulgaria,2018,59580.0,4.942403212738222,country_trends,,,,
+Bulgaria,2019,60266.0,1.1513930849278209,country_trends,,,,
+Bulgaria,2020,34984.0,-41.95068529519131,country_trends,,,,
+Bulgaria,2021,39888.0,14.017836725360166,country_trends,,,,
+Bulgaria,2022,19795.0,-50.37354592860008,country_trends,,,,
+Croatia,2017,41694.0,3.9154599606210816,country_trends,,,,
+Croatia,2018,43532.0,4.40830814985369,country_trends,,,,
+Croatia,2019,45216.0,3.868418634567683,country_trends,,,,
+Croatia,2020,22311.0,-50.65684713375796,country_trends,,,,
+Croatia,2021,29771.0,33.43642149612298,country_trends,,,,
+Croatia,2022,15614.0,-47.552987806926204,country_trends,,,,
+Cyprus,2017,79006.0,12.371280650850537,country_trends,,,,
+Cyprus,2018,82677.0,4.646482545629449,country_trends,,,,
+Cyprus,2019,80335.0,-2.832710427325613,country_trends,,,,
+Cyprus,2020,31583.0,-60.6858778863509,country_trends,,,,
+Cyprus,2021,51629.0,63.47085457366304,country_trends,,,,
+Cyprus,2022,23437.0,-54.60497007495787,country_trends,,,,
+Czech Republic,2017,163518.0,9.427093441119982,country_trends,,,,
+Czech Republic,2018,170030.0,3.982436184395599,country_trends,,,,
+Czech Republic,2019,166771.0,-1.9167205787213981,country_trends,,,,
+Czech Republic,2020,61205.0,-63.2999742161407,country_trends,,,,
+Czech Republic,2021,71075.0,16.126133485826323,country_trends,,,,
+Czech Republic,2022,37269.0,-47.56384101301442,country_trends,,,,
+Denmark,2017,259310.0,-2.429938894073025,country_trends,,,,
+Denmark,2018,266207.0,2.659750877328304,country_trends,,,,
+Denmark,2019,263434.0,-1.041670579661691,country_trends,,,,
+Denmark,2020,98204.0,-62.7215925051436,country_trends,,,,
+Denmark,2021,109870.0,11.879353183169727,country_trends,,,,
+Denmark,2022,73133.0,-33.436788932374625,country_trends,,,,
+Estonia,2017,43375.0,12.376288926887401,country_trends,,,,
+Estonia,2018,46517.0,7.243804034582135,country_trends,,,,
+Estonia,2019,45534.0,-2.1132059247157,country_trends,,,,
+Estonia,2020,20097.0,-55.86375016471208,country_trends,,,,
+Estonia,2021,23809.0,18.47041847041848,country_trends,,,,
+Estonia,2022,13776.0,-42.13952706959553,country_trends,,,,
+Finland,2017,176997.0,4.992258914112502,country_trends,,,,
+Finland,2018,192494.0,8.755515630208421,country_trends,,,,
+Finland,2019,194634.0,1.1117229627936487,country_trends,,,,
+Finland,2020,72789.0,-62.602114738432135,country_trends,,,,
+Finland,2021,72296.0,-0.6773001415048996,country_trends,,,,
+Finland,2022,51256.0,-29.102578289255288,country_trends,,,,
+France,2017,1837442.0,1.4939833572231498,country_trends,,,,
+France,2018,1856031.0,1.011678191747012,country_trends,,,,
+France,2019,1877249.0,1.1431921126317413,country_trends,,,,
+France,2020,882700.0,-52.97906670878504,country_trends,,,,
+France,2021,1124114.0,27.349495864959785,country_trends,,,,
+France,2022,592809.0,-47.26433440024766,country_trends,,,,
+Georgia,2017,32220.0,35.236096537250795,country_trends,,,,
+Georgia,2018,37959.0,17.811918063314703,country_trends,,,,
+Georgia,2019,36165.0,-4.726151900734998,country_trends,,,,
+Georgia,2020,10880.0,-69.91566431632793,country_trends,,,,
+Georgia,2021,21280.0,95.58823529411764,country_trends,,,,
+Georgia,2022,10208.0,-52.03007518796993,country_trends,,,,
+Germany,2017,2048846.0,1.5746493452925003,country_trends,,,,
+Germany,2018,2129836.0,3.95295693282951,country_trends,,,,
+Germany,2019,2128687.0,-0.053947815700361446,country_trends,,,,
+Germany,2020,875462.0,-58.8731457466504,country_trends,,,,
+Germany,2021,969535.0,10.745526362080815,country_trends,,,,
+Germany,2022,540966.0,-44.203561501131986,country_trends,,,,
+Greece,2017,460571.0,4.481461652934549,country_trends,,,,
+Greece,2018,504411.0,9.51861927911224,country_trends,,,,
+Greece,2019,508450.0,0.8007359078211929,country_trends,,,,
+Greece,2020,229559.0,-54.85121447536632,country_trends,,,,
+Greece,2021,370780.0,61.51838960790037,country_trends,,,,
+Greece,2022,133157.0,-64.08732941366848,country_trends,,,,
+Hungary,2017,102266.0,6.813030717650381,country_trends,,,,
+Hungary,2018,114474.0,11.937496333092135,country_trends,,,,
+Hungary,2019,122132.0,6.689728672012851,country_trends,,,,
+Hungary,2020,47770.0,-60.886581731241606,country_trends,,,,
+Hungary,2021,54543.0,14.178354615867693,country_trends,,,,
+Hungary,2022,35889.0,-34.200539024256095,country_trends,,,,
+Ireland,2017,283374.0,3.399280444285524,country_trends,,,,
+Ireland,2018,293961.0,3.7360520019479537,country_trends,,,,
+Ireland,2019,301124.0,2.4367177958980912,country_trends,,,,
+Ireland,2020,114483.0,-61.9814428607484,country_trends,,,,
+Ireland,2021,116793.0,2.017766830009693,country_trends,,,,
+Ireland,2022,95776.0,-17.995085321894287,country_trends,,,,
+Israel,2019,166767.0,6.6107936020866065,country_trends,,,,
+Israel,2020,54119.0,-67.54813602211469,country_trends,,,,
+Israel,2021,74950.0,38.491102939817814,country_trends,,,,
+Israel,2022,48152.0,-35.754503002001336,country_trends,,,,
+Italy,2017,1161145.0,2.639204163749631,country_trends,,,,
+Italy,2018,1203743.0,3.6686201981664723,country_trends,,,,
+Italy,2019,1231769.0,2.328237838143199,country_trends,,,,
+Italy,2020,480534.0,-60.988302189777464,country_trends,,,,
+Italy,2021,679105.0,41.32298651084003,country_trends,,,,
+Italy,2022,398448.0,-41.32748249534314,country_trends,,,,
+Latvia,2017,74724.0,10.225395326882225,country_trends,,,,
+Latvia,2018,83483.0,11.721802901343615,country_trends,,,,
+Latvia,2019,87545.0,4.86566127235486,country_trends,,,,
+Latvia,2020,35796.0,-59.111314181278196,country_trends,,,,
+Latvia,2021,39030.0,9.034528997653378,country_trends,,,,
+Latvia,2022,20863.0,-46.54624647706892,country_trends,,,,
+Lithuania,2017,55991.0,5.390855873661238,country_trends,,,,
+Lithuania,2018,61779.0,10.337375649657975,country_trends,,,,
+Lithuania,2019,63338.0,2.5235112254973435,country_trends,,,,
+Lithuania,2020,31116.0,-50.87309356152705,country_trends,,,,
+Lithuania,2021,34780.0,11.77529245404294,country_trends,,,,
+Lithuania,2022,20426.0,-41.27084531339851,country_trends,,,,
+Luxembourg,2017,70667.0,7.802965584574073,country_trends,,,,
+Luxembourg,2018,74875.0,5.954688892976923,country_trends,,,,
+Luxembourg,2019,76300.0,1.9031719532554225,country_trends,,,,
+Luxembourg,2020,40335.0,-47.13630406290956,country_trends,,,,
+Luxembourg,2021,47684.0,18.21990826825337,country_trends,,,,
+Luxembourg,2022,25993.0,-45.48905293180102,country_trends,,,,
+Malta,2017,50789.0,14.12745494584513,country_trends,,,,
+Malta,2018,56668.0,11.575341117171046,country_trends,,,,
+Malta,2019,58181.0,2.6699371779487446,country_trends,,,,
+Malta,2020,24307.0,-58.221756243447174,country_trends,,,,
+Malta,2021,32499.0,33.70222569630148,country_trends,,,,
+Malta,2022,16676.0,-48.68765192775162,country_trends,,,,
+Moldova,2017,27159.0,21.800161449457356,country_trends,,,,
+Moldova,2018,28033.0,3.218086085643801,country_trends,,,,
+Moldova,2019,27354.0,-2.422145328719727,country_trends,,,,
+Moldova,2020,9828.0,-64.0710682167142,country_trends,,,,
+Moldova,2021,16799.0,70.92999592999594,country_trends,,,,
+Moldova,2022,4787.0,-71.50425620572653,country_trends,,,,
+Montenegro,2017,12914.0,13.131844064826993,country_trends,,,,
+Montenegro,2018,14105.0,9.222549171441852,country_trends,,,,
+Montenegro,2019,14557.0,3.204537398085794,country_trends,,,,
+Montenegro,2020,5816.0,-60.04671292161847,country_trends,,,,
+Montenegro,2021,8232.0,41.540577716643746,country_trends,,,,
+Montenegro,2022,4012.0,-51.263362487852284,country_trends,,,,
+Morocco,2019,199189.0,9.88282930811919,country_trends,,,,
+Morocco,2020,70158.0,-64.77817550165923,country_trends,,,,
+Morocco,2021,99149.0,41.32244362724138,country_trends,,,,
+Morocco,2022,51105.0,-48.456363654701505,country_trends,,,,
+Netherlands,2017,549347.0,2.9449133485248247,country_trends,,,,
+Netherlands,2018,560167.0,1.9696111929254245,country_trends,,,,
+Netherlands,2019,558126.0,-0.36435562966044,country_trends,,,,
+Netherlands,2020,265943.0,-52.350723671715706,country_trends,,,,
+Netherlands,2021,313736.0,17.971144192552547,country_trends,,,,
+Netherlands,2022,177519.0,-43.4177142565724,country_trends,,,,
+Norway,2017,461413.0,-0.6303570659430546,country_trends,,,,
+Norway,2018,734691.0,59.2263330248606,country_trends,,,,
+Norway,2019,726795.0,-1.0747375427220374,country_trends,,,,
+Norway,2020,469920.0,-35.34352878046767,country_trends,,,,
+Norway,2021,507141.0,7.9207099080694565,country_trends,,,,
+Norway,2022,256316.0,-49.45863182034188,country_trends,,,,
+Poland,2017,386151.0,8.96277526327076,country_trends,,,,
+Poland,2018,428503.0,10.967730240242801,country_trends,,,,
+Poland,2019,443679.0,3.5416321472661716,country_trends,,,,
+Poland,2020,194403.0,-56.183862657461816,country_trends,,,,
+Poland,2021,238124.0,22.489879271410416,country_trends,,,,
+Poland,2022,133945.0,-43.74989501268247,country_trends,,,,
+Portugal,2017,411006.0,10.837661602187598,country_trends,,,,
+Portugal,2018,431889.0,5.080947723390894,country_trends,,,,
+Portugal,2019,442585.0,2.4765622648411867,country_trends,,,,
+Portugal,2020,193632.0,-56.24975993312019,country_trends,,,,
+Portugal,2021,255617.0,32.011754255494964,country_trends,,,,
+Portugal,2022,151657.0,-40.670221464143616,country_trends,,,,
+Republic of North Macedonia,2017,16404.0,7.779237844940878,country_trends,,,,
+Republic of North Macedonia,2018,17836.0,8.729578151670324,country_trends,,,,
+Republic of North Macedonia,2019,18845.0,5.657098004036776,country_trends,,,,
+Republic of North Macedonia,2020,8250.0,-56.22180949854072,country_trends,,,,
+Republic of North Macedonia,2021,13327.0,61.53939393939394,country_trends,,,,
+Republic of North Macedonia,2022,5418.0,-59.34568920237113,country_trends,,,,
+Romania,2017,120163.0,8.171146679149487,country_trends,,,,
+Romania,2018,127414.0,6.034303404542163,country_trends,,,,
+Romania,2019,129019.0,1.259673191329047,country_trends,,,,
+Romania,2020,56656.0,-56.08708794828669,country_trends,,,,
+Romania,2021,77637.0,37.032264896921774,country_trends,,,,
+Romania,2022,39685.0,-48.88390844571532,country_trends,,,,
+Serbia,2017,64080.0,1.0406811731314969,country_trends,,,,
+Serbia,2018,66466.0,3.723470661672912,country_trends,,,,
+Serbia,2019,70978.0,6.788433183883491,country_trends,,,,
+Serbia,2020,34129.0,-51.916086674744285,country_trends,,,,
+Serbia,2021,49367.0,44.6482463594011,country_trends,,,,
+Serbia,2022,21449.0,-56.55194765734195,country_trends,,,,
+Slovakia,2017,22210.0,6.009259701207581,country_trends,,,,
+Slovakia,2018,23906.0,7.636199909950481,country_trends,,,,
+Slovakia,2019,22593.0,-5.492345017987121,country_trends,,,,
+Slovakia,2020,9053.0,-59.930066834860355,country_trends,,,,
+Slovakia,2021,10980.0,21.28576162598035,country_trends,,,,
+Slovakia,2022,5395.0,-50.865209471766846,country_trends,,,,
+Slovenia,2017,33852.0,11.789181692094308,country_trends,,,,
+Slovenia,2018,35478.0,4.803261254874158,country_trends,,,,
+Slovenia,2019,32102.0,-9.515756243305706,country_trends,,,,
+Slovenia,2020,13159.0,-59.00878449940814,country_trends,,,,
+Slovenia,2021,16964.0,28.91557109202827,country_trends,,,,
+Slovenia,2022,7754.0,-54.2914406979486,country_trends,,,,
+Spain,2017,1961550.0,5.737494158037815,country_trends,,,,
+Spain,2018,2072032.0,5.632382554612425,country_trends,,,,
+Spain,2019,2118002.0,2.218595079612662,country_trends,,,,
+Spain,2020,894872.0,-57.7492372528449,country_trends,,,,
+Spain,2021,1254450.0,40.18205955712102,country_trends,,,,
+Spain,2022,702736.0,-43.9805492446889,country_trends,,,,
+Sweden,2017,374760.0,4.689459819595343,country_trends,,,,
+Sweden,2018,370848.0,-1.043868075568366,country_trends,,,,
+Sweden,2019,354070.0,-4.524225558719475,country_trends,,,,
+Sweden,2020,128809.0,-63.62047052842659,country_trends,,,,
+Sweden,2021,140520.0,9.09175601083776,country_trends,,,,
+Sweden,2022,90132.0,-35.858240819812124,country_trends,,,,
+Switzerland,2017,453076.0,0.4429389152208696,country_trends,,,,
+Switzerland,2018,458278.0,1.1481517449611012,country_trends,,,,
+Switzerland,2019,454627.0,-0.7966779989438733,country_trends,,,,
+Switzerland,2020,189556.0,-58.305160054286254,country_trends,,,,
+Switzerland,2021,223613.0,17.96672223511786,country_trends,,,,
+Switzerland,2022,141448.0,-36.744285886777604,country_trends,,,,
+Turkey,2017,1014577.0,3.1352987697893964,country_trends,,,,
+Turkey,2018,1067308.0,5.197338398169871,country_trends,,,,
+Turkey,2019,1060929.0,-0.5976718997702579,country_trends,,,,
+Turkey,2020,492743.0,-53.55551596760952,country_trends,,,,
+Turkey,2021,738132.0,49.80060599541749,country_trends,,,,
+Turkey,2022,323501.0,-56.17301512466605,country_trends,,,,
+Ukraine,2017,87593.0,17.797442138813047,country_trends,,,,
+Ukraine,2018,97248.0,11.022570296713209,country_trends,,,,
+Ukraine,2019,111042.0,14.18435340572557,country_trends,,,,
+Ukraine,2020,46973.0,-57.697988148628454,country_trends,,,,
+Ukraine,2021,75817.0,61.405488259212746,country_trends,,,,
+Ukraine,2022,9991.0,-86.82221665325717,country_trends,,,,
+United Kingdom,2017,2081431.0,2.659215838107243,country_trends,,,,
+United Kingdom,2018,2126049.0,2.143621383557748,country_trends,,,,
+United Kingdom,2019,2115593.0,-0.49180428108664964,country_trends,,,,
+United Kingdom,2020,817196.0,-61.37272150172552,country_trends,,,,
+United Kingdom,2021,811162.0,-0.7383785530031939,country_trends,,,,
+United Kingdom,2022,592783.0,-26.92174929298956,country_trends,,,,
+Albania,0,5088.142857142857,,seasonal_patterns,Winter,2544.1428571428573,2544.0,
+Albania,0,5252.0,,seasonal_patterns,Spring,2624.285714285714,2627.714285714286,
+Albania,0,6378.571428571428,,seasonal_patterns,Summer,3187.714285714286,3190.8571428571427,
+Albania,0,5459.857142857143,,seasonal_patterns,Autumn,2731.285714285714,2728.5714285714284,
+Armenia,0,4278.428571428572,,seasonal_patterns,Winter,2140.8571428571427,2137.5714285714284,
+Armenia,0,4533.857142857143,,seasonal_patterns,Spring,2268.5714285714284,2265.285714285714,
+Armenia,0,4803.428571428572,,seasonal_patterns,Summer,2406.4285714285716,2397.0,
+Armenia,0,4497.142857142857,,seasonal_patterns,Autumn,2252.285714285714,2244.8571428571427,
+Austria,0,60778.0,,seasonal_patterns,Winter,30379.285714285714,30398.714285714286,
+Austria,0,64921.28571428572,,seasonal_patterns,Spring,32439.714285714286,32481.571428571428,
+Austria,0,66256.71428571429,,seasonal_patterns,Summer,33102.42857142857,33154.28571428572,
+Austria,0,62918.857142857145,,seasonal_patterns,Autumn,31439.85714285714,31479.0,
+Belgium,0,61554.28571428572,,seasonal_patterns,Winter,30780.428571428572,30773.85714285714,
+Belgium,0,66866.71428571429,,seasonal_patterns,Spring,33423.142857142855,33443.57142857143,
+Belgium,0,67816.14285714286,,seasonal_patterns,Summer,33905.42857142857,33910.71428571428,
+Belgium,0,64198.0,,seasonal_patterns,Autumn,32100.714285714286,32097.285714285714,
+Bosnia and Herzegovina,0,2010.857142857143,,seasonal_patterns,Winter,1004.7142857142857,1006.1428571428571,
+Bosnia and Herzegovina,0,2486.0,,seasonal_patterns,Spring,1242.0,1244.0,
+Bosnia and Herzegovina,0,2982.0,,seasonal_patterns,Summer,1490.857142857143,1491.142857142857,
+Bosnia and Herzegovina,0,2339.0,,seasonal_patterns,Autumn,1171.7142857142858,1167.2857142857142,
+Bulgaria,0,10996.57142857143,,seasonal_patterns,Winter,5499.0,5497.571428571428,
+Bulgaria,0,11783.57142857143,,seasonal_patterns,Spring,5899.571428571428,5884.0,
+Bulgaria,0,11943.42857142857,,seasonal_patterns,Summer,5976.857142857143,5966.571428571428,
+Bulgaria,0,11260.42857142857,,seasonal_patterns,Autumn,5625.714285714285,5634.714285714285,
+Croatia,0,7615.0,,seasonal_patterns,Winter,3809.714285714286,3805.285714285714,
+Croatia,0,8723.714285714286,,seasonal_patterns,Spring,4363.142857142857,4360.571428571428,
+Croatia,0,9168.57142857143,,seasonal_patterns,Summer,4586.571428571428,4582.0,
+Croatia,0,8530.0,,seasonal_patterns,Autumn,4263.142857142857,4266.857142857143,
+Cyprus,0,9846.57142857143,,seasonal_patterns,Winter,4926.0,4920.571428571428,
+Cyprus,0,14518.285714285714,,seasonal_patterns,Spring,7253.714285714285,7264.571428571428,
+Cyprus,0,19166.714285714286,,seasonal_patterns,Summer,9580.42857142857,9586.285714285714,
+Cyprus,0,16322.0,,seasonal_patterns,Autumn,8162.428571428572,8159.571428571428,
+Czech Republic,0,25382.571428571428,,seasonal_patterns,Winter,12674.0,12708.57142857143,
+Czech Republic,0,28394.0,,seasonal_patterns,Spring,14172.142857142857,14221.857142857143,
+Czech Republic,0,33651.857142857145,,seasonal_patterns,Summer,16811.714285714286,16840.14285714286,
+Czech Republic,0,29614.285714285714,,seasonal_patterns,Autumn,14780.57142857143,14833.714285714286,
+Denmark,0,45033.857142857145,,seasonal_patterns,Winter,22512.0,22521.85714285714,
+Denmark,0,49569.142857142855,,seasonal_patterns,Spring,24773.85714285714,24795.285714285714,
+Denmark,0,47884.28571428572,,seasonal_patterns,Summer,23936.85714285714,23947.428571428572,
+Denmark,0,48359.28571428572,,seasonal_patterns,Autumn,24175.14285714286,24184.14285714286,
+Estonia,0,7820.285714285715,,seasonal_patterns,Winter,3910.714285714286,3909.5714285714284,
+Estonia,0,8503.714285714286,,seasonal_patterns,Spring,4251.857142857143,4251.857142857143,
+Estonia,0,8417.142857142857,,seasonal_patterns,Summer,4209.428571428572,4207.714285714285,
+Estonia,0,8359.714285714286,,seasonal_patterns,Autumn,4182.0,4177.714285714285,
+Finland,0,34449.857142857145,,seasonal_patterns,Winter,17225.714285714286,17224.14285714286,
+Finland,0,34827.57142857143,,seasonal_patterns,Spring,17411.428571428572,17416.14285714286,
+Finland,0,30892.14285714286,,seasonal_patterns,Summer,15422.42857142857,15469.714285714286,
+Finland,0,32551.428571428572,,seasonal_patterns,Autumn,16271.142857142857,16280.285714285714,
+France,0,327830.5714285714,,seasonal_patterns,Winter,163850.0,163980.57142857142,
+France,0,367641.5714285714,,seasonal_patterns,Spring,183644.14285714287,183997.42857142858,
+France,0,381949.14285714284,,seasonal_patterns,Summer,190878.14285714287,191071.0,
+France,0,348398.71428571426,,seasonal_patterns,Autumn,174137.14285714287,174261.57142857142,
+Georgia,0,5483.0,,seasonal_patterns,Winter,2742.0,2741.0,
+Georgia,0,6286.428571428572,,seasonal_patterns,Spring,3140.285714285714,3146.1428571428573,
+Georgia,0,6921.142857142857,,seasonal_patterns,Summer,3461.0,3460.1428571428573,
+Georgia,0,5957.571428571428,,seasonal_patterns,Autumn,2980.8571428571427,2976.714285714286,
+Germany,0,353064.14285714284,,seasonal_patterns,Winter,176378.7142857143,176685.42857142858,
+Germany,0,395539.14285714284,,seasonal_patterns,Spring,197411.42857142858,198127.7142857143,
+Germany,0,391416.0,,seasonal_patterns,Summer,195432.57142857142,195983.42857142858,
+Germany,0,390040.14285714284,,seasonal_patterns,Autumn,194758.57142857142,195281.57142857142,
+Greece,0,50980.57142857143,,seasonal_patterns,Winter,25465.0,25515.571428571428,
+Greece,0,79467.71428571429,,seasonal_patterns,Spring,39690.0,39777.71428571428,
+Greece,0,150311.14285714287,,seasonal_patterns,Summer,75124.0,75187.14285714286,
+Greece,0,97489.71428571429,,seasonal_patterns,Autumn,48747.71428571428,48742.0,
+Hungary,0,19350.14285714286,,seasonal_patterns,Winter,9681.57142857143,9668.57142857143,
+Hungary,0,20872.14285714286,,seasonal_patterns,Spring,10437.857142857143,10434.285714285714,
+Hungary,0,21636.571428571428,,seasonal_patterns,Summer,10818.714285714286,10817.857142857143,
+Hungary,0,19972.14285714286,,seasonal_patterns,Autumn,9986.285714285714,9985.857142857143,
+Ireland,0,48568.0,,seasonal_patterns,Winter,24283.428571428572,24284.571428571428,
+Ireland,0,56060.0,,seasonal_patterns,Spring,28017.85714285714,28042.14285714286,
+Ireland,0,55574.57142857143,,seasonal_patterns,Summer,27785.428571428572,27789.14285714286,
+Ireland,0,51164.42857142857,,seasonal_patterns,Autumn,25576.428571428572,25588.0,
+Israel,0,16779.285714285714,,seasonal_patterns,Winter,8386.42857142857,8392.857142857143,
+Israel,0,19169.14285714286,,seasonal_patterns,Spring,9580.57142857143,9588.57142857143,
+Israel,0,18573.85714285714,,seasonal_patterns,Summer,9287.285714285714,9286.57142857143,
+Israel,0,16965.428571428572,,seasonal_patterns,Autumn,8487.42857142857,8478.0,
+Italy,0,203416.57142857142,,seasonal_patterns,Winter,101701.28571428571,101715.28571428571,
+Italy,0,226664.7142857143,,seasonal_patterns,Spring,113298.57142857143,113366.14285714286,
+Italy,0,245228.42857142858,,seasonal_patterns,Summer,122594.85714285714,122633.57142857143,
+Italy,0,222694.85714285713,,seasonal_patterns,Autumn,111359.42857142857,111335.42857142857,
+Latvia,0,13797.42857142857,,seasonal_patterns,Winter,6897.285714285715,6900.142857142857,
+Latvia,0,14502.0,,seasonal_patterns,Spring,7250.285714285715,7251.714285714285,
+Latvia,0,15488.857142857143,,seasonal_patterns,Summer,7740.285714285715,7748.571428571428,
+Latvia,0,14673.57142857143,,seasonal_patterns,Autumn,7333.571428571428,7340.0,
+Lithuania,0,10709.142857142857,,seasonal_patterns,Winter,5354.428571428572,5354.714285714285,
+Lithuania,0,11983.0,,seasonal_patterns,Spring,5986.0,5997.0,
+Lithuania,0,11626.857142857143,,seasonal_patterns,Summer,5812.857142857143,5814.0,
+Lithuania,0,11474.857142857143,,seasonal_patterns,Autumn,5729.285714285715,5745.571428571428,
+Luxembourg,0,13526.0,,seasonal_patterns,Winter,6756.0,6770.0,
+Luxembourg,0,15221.714285714286,,seasonal_patterns,Spring,7605.285714285715,7616.428571428572,
+Luxembourg,0,14142.285714285714,,seasonal_patterns,Summer,7066.428571428572,7075.857142857143,
+Luxembourg,0,14453.714285714286,,seasonal_patterns,Autumn,7222.0,7231.714285714285,
+Malta,0,8242.42857142857,,seasonal_patterns,Winter,4135.285714285715,4107.142857142857,
+Malta,0,10294.42857142857,,seasonal_patterns,Spring,5156.142857142857,5138.285714285715,
+Malta,0,11536.285714285714,,seasonal_patterns,Summer,5780.571428571428,5755.714285714285,
+Malta,0,10444.285714285714,,seasonal_patterns,Autumn,5234.285714285715,5210.0,
+Moldova,0,4388.857142857143,,seasonal_patterns,Winter,2188.8571428571427,2200.0,
+Moldova,0,4365.571428571428,,seasonal_patterns,Spring,2181.1428571428573,2184.4285714285716,
+Moldova,0,5921.428571428572,,seasonal_patterns,Summer,2958.0,2963.4285714285716,
+Moldova,0,4789.571428571428,,seasonal_patterns,Autumn,2393.714285714286,2395.8571428571427,
+Montenegro,0,2092.285714285714,,seasonal_patterns,Winter,1046.5714285714287,1045.7142857142858,
+Montenegro,0,2390.4285714285716,,seasonal_patterns,Spring,1195.4285714285713,1195.0,
+Montenegro,0,3150.0,,seasonal_patterns,Summer,1574.2857142857142,1575.7142857142858,
+Montenegro,0,2517.4285714285716,,seasonal_patterns,Autumn,1259.4285714285713,1258.0,
+Morocco,0,22475.428571428572,,seasonal_patterns,Winter,11254.285714285714,11221.142857142857,
+Morocco,0,21874.85714285714,,seasonal_patterns,Spring,10937.857142857143,10937.0,
+Morocco,0,20629.14285714286,,seasonal_patterns,Summer,10321.42857142857,10307.714285714286,
+Morocco,0,20859.85714285714,,seasonal_patterns,Autumn,10421.42857142857,10438.42857142857,
+Netherlands,0,98831.85714285714,,seasonal_patterns,Winter,49410.0,49421.857142857145,
+Netherlands,0,110878.14285714286,,seasonal_patterns,Spring,55417.0,55461.142857142855,
+Netherlands,0,107983.85714285714,,seasonal_patterns,Summer,53992.28571428572,53991.57142857143,
+Netherlands,0,104944.71428571429,,seasonal_patterns,Autumn,52472.0,52472.71428571428,
+Norway,0,126127.57142857143,,seasonal_patterns,Winter,63050.857142857145,63076.71428571428,
+Norway,0,137963.14285714287,,seasonal_patterns,Spring,68952.71428571429,69010.42857142857,
+Norway,0,122046.85714285714,,seasonal_patterns,Summer,61002.0,61044.857142857145,
+Norway,0,131093.2857142857,,seasonal_patterns,Autumn,65542.57142857143,65550.71428571429,
+Poland,0,72326.14285714286,,seasonal_patterns,Winter,36154.0,36172.142857142855,
+Poland,0,76277.14285714286,,seasonal_patterns,Spring,38132.57142857143,38144.57142857143,
+Poland,0,84142.14285714286,,seasonal_patterns,Summer,42060.0,42082.142857142855,
+Poland,0,78567.85714285714,,seasonal_patterns,Autumn,39264.142857142855,39303.71428571428,
+Portugal,0,70136.57142857143,,seasonal_patterns,Winter,35079.28571428572,35057.28571428572,
+Portugal,0,82207.14285714286,,seasonal_patterns,Spring,41109.857142857145,41097.28571428572,
+Portugal,0,89621.28571428571,,seasonal_patterns,Summer,44822.142857142855,44799.142857142855,
+Portugal,0,80492.71428571429,,seasonal_patterns,Autumn,40256.71428571428,40236.0,
+Republic of North Macedonia,0,3120.0,,seasonal_patterns,Winter,1559.5714285714287,1560.4285714285713,
+Republic of North Macedonia,0,3358.1428571428573,,seasonal_patterns,Spring,1679.7142857142858,1678.4285714285713,
+Republic of North Macedonia,0,3815.8571428571427,,seasonal_patterns,Summer,1906.2857142857142,1909.5714285714287,
+Republic of North Macedonia,0,3320.285714285714,,seasonal_patterns,Autumn,1661.2857142857142,1659.0,
+Romania,0,22122.14285714286,,seasonal_patterns,Winter,11069.0,11053.142857142857,
+Romania,0,24246.428571428572,,seasonal_patterns,Spring,12127.42857142857,12119.0,
+Romania,0,24998.85714285714,,seasonal_patterns,Summer,12493.857142857143,12505.0,
+Romania,0,23155.428571428572,,seasonal_patterns,Autumn,11578.0,11577.42857142857,
+Serbia,0,11687.42857142857,,seasonal_patterns,Winter,5842.0,5845.428571428572,
+Serbia,0,12766.142857142857,,seasonal_patterns,Spring,6384.428571428572,6381.714285714285,
+Serbia,0,15408.0,,seasonal_patterns,Summer,7708.142857142857,7699.857142857143,
+Serbia,0,12979.714285714286,,seasonal_patterns,Autumn,6485.571428571428,6494.142857142857,
+Slovakia,0,3372.0,,seasonal_patterns,Winter,1682.857142857143,1689.142857142857,
+Slovakia,0,3711.285714285714,,seasonal_patterns,Spring,1851.2857142857142,1860.0,
+Slovakia,0,5289.428571428572,,seasonal_patterns,Summer,2640.714285714286,2648.714285714286,
+Slovakia,0,4068.4285714285716,,seasonal_patterns,Autumn,2030.4285714285713,2038.0,
+Slovenia,0,5194.142857142857,,seasonal_patterns,Winter,2592.5714285714284,2601.5714285714284,
+Slovenia,0,6299.285714285715,,seasonal_patterns,Spring,3140.8571428571427,3158.4285714285716,
+Slovenia,0,6920.428571428572,,seasonal_patterns,Summer,3454.5714285714284,3465.8571428571427,
+Slovenia,0,5813.428571428572,,seasonal_patterns,Autumn,2897.5714285714284,2915.8571428571427,
+Spain,0,335448.5714285714,,seasonal_patterns,Winter,167735.57142857142,167713.0,
+Spain,0,394460.0,,seasonal_patterns,Spring,197201.2857142857,197258.7142857143,
+Spain,0,438033.28571428574,,seasonal_patterns,Summer,219037.0,218996.2857142857,
+Spain,0,383308.85714285716,,seasonal_patterns,Autumn,191685.2857142857,191623.57142857142,
+Sweden,0,62953.28571428572,,seasonal_patterns,Winter,31472.571428571428,31480.714285714286,
+Sweden,0,69849.28571428571,,seasonal_patterns,Spring,34916.857142857145,34932.42857142857,
+Sweden,0,59932.28571428572,,seasonal_patterns,Summer,29965.714285714286,29966.571428571428,
+Sweden,0,66852.57142857143,,seasonal_patterns,Autumn,33422.28571428572,33430.28571428572,
+Switzerland,0,85330.57142857143,,seasonal_patterns,Winter,42671.42857142857,42659.142857142855,
+Switzerland,0,88083.42857142857,,seasonal_patterns,Spring,44050.857142857145,44032.57142857143,
+Switzerland,0,85012.42857142857,,seasonal_patterns,Summer,42525.57142857143,42486.857142857145,
+Switzerland,0,80384.42857142857,,seasonal_patterns,Autumn,40211.28571428572,40173.142857142855,
+Turkey,0,182666.0,,seasonal_patterns,Winter,91344.57142857143,91321.42857142857,
+Turkey,0,198471.2857142857,,seasonal_patterns,Spring,99212.71428571429,99258.57142857143,
+Turkey,0,223804.7142857143,,seasonal_patterns,Summer,111928.71428571429,111876.0,
+Turkey,0,206618.57142857142,,seasonal_patterns,Autumn,103304.71428571429,103313.85714285714,
+Ukraine,0,17052.14285714286,,seasonal_patterns,Winter,8526.714285714286,8525.42857142857,
+Ukraine,0,15552.42857142857,,seasonal_patterns,Spring,7773.857142857143,7778.571428571428,
+Ukraine,0,20123.428571428572,,seasonal_patterns,Summer,10065.857142857143,10057.57142857143,
+Ukraine,0,19132.428571428572,,seasonal_patterns,Autumn,9566.285714285714,9566.142857142857,
+United Kingdom,0,352927.5714285714,,seasonal_patterns,Winter,176433.57142857142,176494.0,
+United Kingdom,0,393907.14285714284,,seasonal_patterns,Spring,196886.85714285713,197020.2857142857,
+United Kingdom,0,390400.0,,seasonal_patterns,Summer,195183.42857142858,195216.57142857142,
+United Kingdom,0,373012.28571428574,,seasonal_patterns,Autumn,186525.42857142858,186486.85714285713,
+Albania,0,22178.571428571428,,airport_breakdown,,11087.42857142857,11091.142857142857,Tirana
+Armenia,0,18112.85714285714,,airport_breakdown,,9068.142857142857,9044.714285714286,Yerevan
+Austria,0,14181.42857142857,,airport_breakdown,,7069.714285714285,7111.714285714285,Graz
+Austria,0,14594.857142857143,,airport_breakdown,,7290.714285714285,7304.142857142857,Innsbruck
+Austria,0,5278.571428571428,,airport_breakdown,,2643.5714285714284,2635.0,Klagenfurt
+Austria,0,9722.857142857143,,airport_breakdown,,4830.714285714285,4892.142857142857,Linz
+Austria,0,21829.85714285714,,airport_breakdown,,10895.142857142857,10934.714285714286,Salzburg
+Austria,0,189267.2857142857,,airport_breakdown,,94631.42857142857,94635.85714285714,Vienna
+Belgium,0,12215.714285714286,,airport_breakdown,,6101.714285714285,6114.0,Antwerp
+Belgium,0,168356.42857142858,,airport_breakdown,,84174.14285714286,84182.28571428571,Brussels
+Belgium,0,41222.28571428572,,airport_breakdown,,20626.714285714286,20595.571428571428,Charleroi
+Belgium,0,32664.85714285714,,airport_breakdown,,16332.42857142857,16332.42857142857,Liège
+Belgium,0,5975.857142857143,,airport_breakdown,,2974.714285714286,3001.1428571428573,Ostend-Bruges
+Bosnia and Herzegovina,0,9817.857142857143,,airport_breakdown,,4909.285714285715,4908.571428571428,Sarajevo
+Bulgaria,0,45984.0,,airport_breakdown,,23001.14285714286,22982.85714285714,Sofia
+Croatia,0,626.0,,airport_breakdown,,322.7142857142857,303.2857142857143,Lučko
+Croatia,0,33411.28571428572,,airport_breakdown,,16699.85714285714,16711.428571428572,Zagreb
+Cyprus,0,45565.0,,airport_breakdown,,22778.14285714286,22786.85714285714,Larnaca
+Cyprus,0,14288.57142857143,,airport_breakdown,,7144.428571428572,7144.142857142857,Paphos
+Czech Republic,0,7545.857142857143,,airport_breakdown,,3761.4285714285716,3784.4285714285716,Brno-Tuřany
+Czech Republic,0,1473.857142857143,,airport_breakdown,,714.1428571428571,759.7142857142857,Karlovy Vary
+Czech Republic,0,5631.571428571428,,airport_breakdown,,2808.285714285714,2823.285714285714,Ostrava
+Czech Republic,0,102391.42857142857,,airport_breakdown,,51154.57142857143,51236.857142857145,Prague
+Denmark,0,190846.57142857142,,airport_breakdown,,95397.85714285714,95448.71428571429,Copenhagen - Kastrup
+Estonia,0,31881.285714285714,,airport_breakdown,,15945.0,15936.285714285714,Tallinn
+Estonia,0,1219.5714285714287,,airport_breakdown,,609.0,610.5714285714286,Tartu
+Finland,0,132721.0,,airport_breakdown,,66330.71428571429,66390.28571428571,Helsinki - Vantaa
+France,0,3156.5714285714284,,airport_breakdown,,1544.857142857143,1611.7142857142858,Agen-La Garenne
+France,0,14889.57142857143,,airport_breakdown,,7444.285714285715,7445.285714285715,Ajaccio-Napoléon-Bonaparte
+France,0,993.8571428571429,,airport_breakdown,,490.0,503.85714285714283,Albert-Bray
+France,0,1526.2857142857142,,airport_breakdown,,747.7142857142857,778.5714285714286,Angers-Marcé
+France,0,3132.285714285714,,airport_breakdown,,1517.2857142857142,1615.0,Annecy-Meythet
+France,0,1522.5714285714287,,airport_breakdown,,811.4285714285714,711.1428571428571,Annemasse
+France,0,5864.428571428572,,airport_breakdown,,2795.5714285714284,3068.8571428571427,Avignon-Caumont
+France,0,14035.42857142857,,airport_breakdown,,7025.0,7010.428571428572,Bastia-Poretta
+France,0,19371.14285714286,,airport_breakdown,,9678.857142857143,9692.285714285714,Beauvais-Tillé
+France,0,3324.0,,airport_breakdown,,1638.0,1686.0,Bergerac-Roumanière
+France,0,10766.142857142857,,airport_breakdown,,5362.857142857143,5403.285714285715,Biarritz-Bayonne-Anglet
+France,0,51883.857142857145,,airport_breakdown,,25943.0,25940.85714285714,Bordeaux-Mérignac
+France,0,13015.42857142857,,airport_breakdown,,6517.285714285715,6498.142857142857,Brest-Bretagne
+France,0,2659.0,,airport_breakdown,,1312.857142857143,1346.142857142857,Brive-Souillac
+France,0,60841.28571428572,,airport_breakdown,,30428.428571428572,30412.85714285714,Bâle-Mulhouse
+France,0,5092.142857142857,,airport_breakdown,,2515.4285714285716,2576.714285714286,Béziers-Vias
+France,0,5035.714285714285,,airport_breakdown,,2491.285714285714,2544.4285714285716,Caen-Carpiquet
+France,0,5339.285714285715,,airport_breakdown,,2655.8571428571427,2683.4285714285716,Calvi-Sainte-Catherine
+France,0,12549.714285714286,,airport_breakdown,,6293.857142857143,6255.857142857143,Cannes-Mandelieu
+France,0,4569.142857142857,,airport_breakdown,,2247.0,2322.1428571428573,Carcassonne-Salvaza
+France,0,6007.428571428572,,airport_breakdown,,2981.4285714285716,3026.0,Chambéry-Aix-les-Bains
+France,0,3267.8571428571427,,airport_breakdown,,1623.142857142857,1644.7142857142858,Châlons-Vatry
+France,0,2298.5714285714284,,airport_breakdown,,1123.5714285714287,1175.0,Châteauroux-Déols
+France,0,9374.57142857143,,airport_breakdown,,4662.571428571428,4712.0,Clermont-Ferrand-Auvergne
+France,0,2953.5714285714284,,airport_breakdown,,1452.5714285714287,1501.0,Deauville-Normandie
+France,0,2483.4285714285716,,airport_breakdown,,1226.0,1257.4285714285713,Dinard-Pleurtuit-Saint-Malo
+France,0,2394.8571428571427,,airport_breakdown,,1173.857142857143,1221.0,Dôle-Tavaux
+France,0,9463.285714285714,,airport_breakdown,,4718.571428571428,4744.714285714285,Figari-Sud Corse
+France,0,6080.428571428572,,airport_breakdown,,3013.4285714285716,3067.0,Grenoble-Isère
+France,0,9584.0,,airport_breakdown,,4786.714285714285,4797.285714285715,Hyères-Le Palyvestre
+France,0,2650.4285714285716,,airport_breakdown,,1333.5714285714287,1316.857142857143,Istres-Le Tubé
+France,0,4068.1428571428573,,airport_breakdown,,2006.857142857143,2061.285714285714,La Rochelle-Ile de Ré
+France,0,742.5714285714286,,airport_breakdown,,366.14285714285717,376.42857142857144,Lannion
+France,0,784.1428571428571,,airport_breakdown,,386.2857142857143,397.85714285714283,Le Havre-Octeville
+France,0,1223.5714285714287,,airport_breakdown,,597.7142857142857,625.8571428571429,Le Mans
+France,0,18730.14285714286,,airport_breakdown,,9374.0,9356.142857142857,Lille-Lesquin
+France,0,5266.0,,airport_breakdown,,2617.714285714286,2648.285714285714,Limoges-Bellegarde
+France,0,4968.857142857143,,airport_breakdown,,2500.4285714285716,2468.4285714285716,Lorient-Lann Bihoué
+France,0,8646.57142857143,,airport_breakdown,,4317.857142857143,4328.714285714285,Lyon-Bron
+France,0,83331.85714285714,,airport_breakdown,,41686.57142857143,41645.28571428572,Lyon-Saint-Exupéry
+France,0,76214.28571428571,,airport_breakdown,,38112.57142857143,38101.71428571428,Marseille-Provence
+France,0,4317.0,,airport_breakdown,,2150.285714285714,2166.714285714286,Metz-Nancy-Lorraine
+France,0,23922.714285714286,,airport_breakdown,,11927.0,11995.714285714286,Montpellier-Méditerranée
+France,0,44238.71428571428,,airport_breakdown,,22109.428571428572,22129.285714285714,Nantes-Atlantique
+France,0,111243.0,,airport_breakdown,,55629.57142857143,55613.42857142857,Nice-Côte d’Azur
+France,0,3936.4285714285716,,airport_breakdown,,2028.4285714285713,1908.0,Nîmes-Garons
+France,0,368810.4285714286,,airport_breakdown,,184467.7142857143,184342.7142857143,Paris-Charles-de-Gaulle
+France,0,46696.142857142855,,airport_breakdown,,23356.428571428572,23339.714285714286,Paris-Le Bourget
+France,0,171567.57142857142,,airport_breakdown,,85743.42857142857,85824.14285714286,Paris-Orly
+France,0,8808.857142857143,,airport_breakdown,,4431.0,4377.857142857143,Pau-Pyrénées
+France,0,8919.0,,airport_breakdown,,4452.142857142857,4466.857142857143,Perpignan-Rivesaltes
+France,0,4224.428571428572,,airport_breakdown,,2073.714285714286,2150.714285714286,Poitiers-Biard
+France,0,2075.0,,airport_breakdown,,1024.857142857143,1050.142857142857,Quimper-Pluguffan
+France,0,13721.0,,airport_breakdown,,6862.428571428572,6858.571428571428,Rennes-Saint-Jacques
+France,0,3099.1428571428573,,airport_breakdown,,1524.7142857142858,1574.4285714285713,Rodez-Marcillac
+France,0,2169.0,,airport_breakdown,,1061.0,1108.0,Rouen
+France,0,1890.5714285714287,,airport_breakdown,,933.8571428571429,956.7142857142857,Saint-Etienne-Bouthéon
+France,0,2400.1428571428573,,airport_breakdown,,1177.7142857142858,1222.4285714285713,Saint-Nazaire-Montoir
+France,0,15893.857142857143,,airport_breakdown,,7942.857142857143,7951.0,Strasbourg-Entzheim
+France,0,5558.142857142857,,airport_breakdown,,2767.285714285714,2790.8571428571427,Tarbes-Lourdes Pyrénées
+France,0,71243.57142857143,,airport_breakdown,,35766.57142857143,35477.0,Toulouse-Blagnac
+France,0,2728.4285714285716,,airport_breakdown,,1359.857142857143,1368.5714285714287,Tours-Val de Loire
+France,0,9803.714285714286,,airport_breakdown,,4954.571428571428,4849.142857142857,Toussus-le-Noble
+Georgia,0,24648.14285714286,,airport_breakdown,,12324.142857142857,12324.0,Tbilisi
+Germany,0,84955.57142857143,,airport_breakdown,,42368.0,42587.57142857143,Berlin - Brandenburg
+Germany,0,158519.2,,airport_breakdown,,79216.2,79303.0,Berlin - Tegel
+Germany,0,22685.85714285714,,airport_breakdown,,11270.285714285714,11415.57142857143,Bremen
+Germany,0,109811.57142857143,,airport_breakdown,,54664.857142857145,55146.71428571428,Cologne-Bonn
+Germany,0,15294.142857142857,,airport_breakdown,,7621.428571428572,7672.714285714285,Dresden
+Germany,0,155957.0,,airport_breakdown,,77950.71428571429,78006.28571428571,Dusseldorf
+Germany,0,4219.857142857143,,airport_breakdown,,2065.4285714285716,2154.4285714285716,Erfurt
+Germany,0,368789.14285714284,,airport_breakdown,,184378.57142857142,184410.57142857142,Frankfurt
+Germany,0,109405.42857142857,,airport_breakdown,,54645.57142857143,54759.857142857145,Hamburg
+Germany,0,47006.28571428572,,airport_breakdown,,23456.571428571428,23549.714285714286,Hanover
+Germany,0,63503.142857142855,,airport_breakdown,,31734.285714285714,31768.85714285714,Leipzig-Halle
+Germany,0,14759.714285714286,,airport_breakdown,,7179.428571428572,7580.285714285715,Muenster-Osnabrueck
+Germany,0,287646.28571428574,,airport_breakdown,,143837.7142857143,143808.57142857142,Munich
+Germany,0,36950.0,,airport_breakdown,,18342.14285714286,18607.85714285714,Nuremberg
+Germany,0,6483.571428571428,,airport_breakdown,,3199.4285714285716,3284.1428571428573,Saarbruecken
+Germany,0,89363.85714285714,,airport_breakdown,,44683.857142857145,44680.0,Stuttgart
+Greece,0,4230.428571428572,,airport_breakdown,,2089.285714285714,2141.1428571428573,Aktion
+Greece,0,161968.7142857143,,airport_breakdown,,80943.42857142857,81025.28571428571,Athens
+Greece,0,18898.571428571428,,airport_breakdown,,9467.57142857143,9431.0,Corfu
+Greece,0,42311.142857142855,,airport_breakdown,,21159.428571428572,21151.714285714286,Heraklion
+Greece,0,4899.571428571428,,airport_breakdown,,2436.5714285714284,2463.0,Kefallinia
+Greece,0,20045.0,,airport_breakdown,,10025.285714285714,10019.714285714286,Khania - Souda
+Greece,0,14249.714285714286,,airport_breakdown,,7131.857142857143,7117.857142857143,Kos
+Greece,0,12509.42857142857,,airport_breakdown,,6252.142857142857,6257.285714285715,Mikonos
+Greece,0,29232.571428571428,,airport_breakdown,,14607.0,14625.57142857143,Rodos
+Greece,0,14421.0,,airport_breakdown,,7211.428571428572,7209.571428571428,Santorini
+Greece,0,3129.5714285714284,,airport_breakdown,,1557.2857142857142,1572.2857142857142,Skiathos
+Greece,0,42988.0,,airport_breakdown,,21457.14285714286,21530.85714285714,Thessaloniki
+Greece,0,9365.42857142857,,airport_breakdown,,4688.285714285715,4677.142857142857,Zakinthos
+Hungary,0,81831.0,,airport_breakdown,,40924.42857142857,40906.57142857143,Budapest - Ferihegy
+Ireland,0,4501.0,,airport_breakdown,,2244.285714285714,2256.714285714286,Connaught
+Ireland,0,18246.85714285714,,airport_breakdown,,9127.42857142857,9119.42857142857,Cork
+Ireland,0,1591.0,,airport_breakdown,,794.2857142857143,796.7142857142857,Donegal
+Ireland,0,165868.2857142857,,airport_breakdown,,82921.85714285714,82946.42857142857,Dublin
+Ireland,0,3539.4285714285716,,airport_breakdown,,1768.7142857142858,1770.7142857142858,Kerry - Farranfore
+Ireland,0,16292.714285714286,,airport_breakdown,,8150.857142857143,8141.857142857143,Shannon
+Ireland,0,46.142857142857146,,airport_breakdown,,22.428571428571427,23.714285714285715,Sligo
+Ireland,0,528.5714285714286,,airport_breakdown,,262.42857142857144,266.14285714285717,Waterford
+Ireland,0,753.0,,airport_breakdown,,370.85714285714283,382.14285714285717,Weston
+Israel,0,125770.66666666667,,airport_breakdown,,62874.666666666664,62896.0,Ben Gurion International
+Israel,0,61551.0,,airport_breakdown,,30784.0,30767.0,Tel Aviv - Ben Gurion International
+Italy,0,67729.0,,airport_breakdown,,33841.0,33888.0,Bergamo
+Italy,0,55162.42857142857,,airport_breakdown,,27590.85714285714,27571.571428571428,Bologna
+Italy,0,15400.0,,airport_breakdown,,7698.285714285715,7701.714285714285,Brindisi
+Italy,0,55845.0,,airport_breakdown,,27920.571428571428,27924.428571428572,Catania
+Italy,0,82306.85714285714,,airport_breakdown,,41098.0,41208.857142857145,Milan - Linate
+Italy,0,150632.14285714287,,airport_breakdown,,75311.57142857143,75320.57142857143,Milan - Malpensa
+Italy,0,58124.57142857143,,airport_breakdown,,29055.428571428572,29069.14285714286,Naples
+Italy,0,30994.0,,airport_breakdown,,15497.5,15496.5,Palermo Falcone-Borsellino
+Italy,0,32966.142857142855,,airport_breakdown,,16529.571428571428,16436.571428571428,Pisa San Giusto
+Italy,0,40472.71428571428,,airport_breakdown,,20221.714285714286,20251.0,Rome - Ciampino
+Italy,0,216871.42857142858,,airport_breakdown,,108442.0,108429.42857142857,Rome - Fiumicino
+Italy,0,31551.14285714286,,airport_breakdown,,15771.0,15780.142857142857,Torino Caselle
+Italy,0,14556.0,,airport_breakdown,,7278.857142857143,7277.142857142857,Treviso
+Italy,0,67531.71428571429,,airport_breakdown,,33767.42857142857,33764.28571428572,Venice
+Latvia,0,478.2857142857143,,airport_breakdown,,238.71428571428572,239.57142857142858,Liepaja
+Latvia,0,57968.142857142855,,airport_breakdown,,28974.571428571428,28993.571428571428,Riga
+Latvia,0,8.666666666666666,,airport_breakdown,,4.666666666666667,4.0,Tukums Jurmala
+Latvia,0,11.714285714285714,,airport_breakdown,,6.142857142857143,5.571428571428571,Ventspils
+Lithuania,0,7588.142857142857,,airport_breakdown,,3787.4285714285716,3800.714285714286,Kaunas
+Lithuania,0,3004.8571428571427,,airport_breakdown,,1503.0,1501.857142857143,Palanga
+Lithuania,0,2291.714285714286,,airport_breakdown,,1144.142857142857,1147.5714285714287,Siauliai
+Lithuania,0,32909.142857142855,,airport_breakdown,,16448.0,16461.14285714286,Vilnius
+Luxembourg,0,57343.71428571428,,airport_breakdown,,28649.714285714286,28694.0,Luxembourg
+Malta,0,40517.42857142857,,airport_breakdown,,20306.285714285714,20211.14285714286,Malta
+Moldova,0,19465.428571428572,,airport_breakdown,,9721.714285714286,9743.714285714286,Chișinău
+Montenegro,0,10150.142857142857,,airport_breakdown,,5075.714285714285,5074.428571428572,Podgorica
+Morocco,0,10267.0,,airport_breakdown,,5137.4,5129.6,Al Massira
+Morocco,0,9499.6,,airport_breakdown,,4750.2,4749.4,Ibn Batouta
+Morocco,0,26707.8,,airport_breakdown,,13344.0,13363.8,Menara
+Morocco,0,57196.6,,airport_breakdown,,28625.4,28571.2,Mohammed V International
+Morocco,0,8733.8,,airport_breakdown,,4375.8,4358.0,Rabat-Salé
+Morocco,0,7770.2,,airport_breakdown,,3876.2,3894.0,Saïss
+Netherlands,0,384860.71428571426,,airport_breakdown,,192461.14285714287,192399.57142857142,Amsterdam - Schiphol
+Netherlands,0,8665.285714285714,,airport_breakdown,,4297.714285714285,4367.571428571428,Groningen
+Netherlands,0,2301.8,,airport_breakdown,,1174.6,1127.2,Lelystad
+Netherlands,0,8122.857142857143,,airport_breakdown,,4056.285714285714,4066.5714285714284,Maastricht-Aachen
+Netherlands,0,19345.571428571428,,airport_breakdown,,9637.142857142857,9708.42857142857,Rotterdam
+Norway,0,11026.6,,airport_breakdown,,5510.6,5516.0,Alesund
+Norway,0,7170.4,,airport_breakdown,,3583.8,3586.6,Alta
+Norway,0,3088.8,,airport_breakdown,,1546.2,1542.6,Andenes
+Norway,0,2785.8,,airport_breakdown,,1392.4,1393.4,Bardufoss
+Norway,0,1965.2,,airport_breakdown,,986.0,979.2,Batsfjord
+Norway,0,73407.0,,airport_breakdown,,36668.57142857143,36738.42857142857,Bergen
+Norway,0,1364.0,,airport_breakdown,,681.2,682.8,Berlevåg
+Norway,0,31363.4,,airport_breakdown,,15698.8,15664.6,Bodø
+Norway,0,5790.8,,airport_breakdown,,2894.8,2896.0,Bronnoysund Bronnoy
+Norway,0,6714.0,,airport_breakdown,,3354.6,3359.4,Florø
+Norway,0,2818.8,,airport_breakdown,,1408.4,1410.4,Forde Bringeland
+Norway,0,8926.4,,airport_breakdown,,4451.2,4475.2,Hammerfest
+Norway,0,7929.8,,airport_breakdown,,3962.8,3967.0,Harstad - Narvik Evenes
+Norway,0,5299.857142857143,,airport_breakdown,,2647.4285714285716,2652.4285714285716,Haugesund
+Norway,0,1742.2,,airport_breakdown,,869.2,873.0,Honningsvåg Valan
+Norway,0,6331.8,,airport_breakdown,,3164.6,3167.2,Kirkenes Høybuktmoen
+Norway,0,10914.0,,airport_breakdown,,5445.6,5468.4,Kristiansand Kjevik
+Norway,0,8096.0,,airport_breakdown,,4054.0,4042.0,Kristiansund Kvernberget
+Norway,0,2047.2,,airport_breakdown,,1024.6,1022.6,Lakselv Banak
+Norway,0,4677.4,,airport_breakdown,,2335.4,2342.0,Leknes
+Norway,0,2143.0,,airport_breakdown,,1075.8,1067.2,Mehamn
+Norway,0,4244.0,,airport_breakdown,,2120.0,2124.0,Mo i Rana Røssvoll
+Norway,0,4561.4,,airport_breakdown,,2279.8,2281.6,Molde Årø
+Norway,0,3088.6,,airport_breakdown,,1543.4,1545.2,Mosjøen Kjærstad
+Norway,0,2106.2,,airport_breakdown,,1052.8,1053.4,Namsos Høknesøra
+Norway,0,3659.0,,airport_breakdown,,1828.0,1831.0,Orsta¿Volda Hovden
+Norway,0,189531.7142857143,,airport_breakdown,,94774.28571428571,94757.42857142857,Oslo - Gardermoen
+Norway,0,1283.8,,airport_breakdown,,642.0,641.8,Roros
+Norway,0,1972.6,,airport_breakdown,,985.6,987.0,Rorvik Ryum
+Norway,0,1087.6,,airport_breakdown,,542.8,544.8,Rost
+Norway,0,1856.0,,airport_breakdown,,926.0,930.0,Sandane  Anda
+Norway,0,3178.4,,airport_breakdown,,1587.0,1591.4,Sandnessjøen Stokka
+Norway,0,4307.4,,airport_breakdown,,2154.2,2153.2,Sogndal Haukåsen
+Norway,0,1457.8,,airport_breakdown,,728.2,729.6,Sorkjosen
+Norway,0,52914.42857142857,,airport_breakdown,,26426.714285714286,26487.714285714286,Stavanger
+Norway,0,4282.4,,airport_breakdown,,2140.0,2142.4,Stokmarknes Skagen
+Norway,0,1529.0,,airport_breakdown,,763.4,765.6,Svalbard Longyear
+Norway,0,3334.0,,airport_breakdown,,1665.6,1668.4,Svolvær Helle
+Norway,0,33984.6,,airport_breakdown,,17003.2,16981.4,Tromsø
+Norway,0,45211.57142857143,,airport_breakdown,,22612.14285714286,22599.428571428572,Trondheim
+Norway,0,5582.6,,airport_breakdown,,2790.4,2792.2,Vadsø
+Norway,0,1851.8,,airport_breakdown,,925.2,926.6,Vardø Svartnes
+Norway,0,950.0,,airport_breakdown,,469.0,481.0,Værøy
+Poland,0,2942.714285714286,,airport_breakdown,,1468.0,1474.7142857142858,Bydgoszcz
+Poland,0,32486.714285714286,,airport_breakdown,,16234.42857142857,16252.285714285714,Gdansk
+Poland,0,26967.714285714286,,airport_breakdown,,13474.142857142857,13493.57142857143,Katowice - Pyrzowice
+Poland,0,42118.57142857143,,airport_breakdown,,21047.428571428572,21071.14285714286,Krakow - Balice
+Poland,0,3254.4285714285716,,airport_breakdown,,1623.142857142857,1631.2857142857142,Lodz - Lublinek
+Poland,0,2804.1428571428573,,airport_breakdown,,1399.4285714285713,1404.7142857142858,Lublin
+Poland,0,1175.0,,airport_breakdown,,584.7142857142857,590.2857142857143,Olsztyn-Mazury
+Poland,0,16777.85714285714,,airport_breakdown,,8381.285714285714,8396.57142857143,Poznan - Lawica
+Poland,0,540.5,,airport_breakdown,,272.3333333333333,268.1666666666667,Radom
+Poland,0,6850.714285714285,,airport_breakdown,,3420.1428571428573,3430.5714285714284,Rzeszow - Jasionka
+Poland,0,4481.714285714285,,airport_breakdown,,2239.8571428571427,2241.8571428571427,Szczecin - Goleniów
+Poland,0,133008.57142857142,,airport_breakdown,,66536.57142857143,66472.0,Warszawa - Chopina
+Poland,0,15332.57142857143,,airport_breakdown,,7645.857142857143,7686.714285714285,Warszawa - Modlin
+Poland,0,21821.428571428572,,airport_breakdown,,10909.857142857143,10911.57142857143,Wroclaw - Strachowice
+Poland,0,827.8571428571429,,airport_breakdown,,412.42857142857144,415.42857142857144,Zielona Gora - Babimost
+Portugal,0,4739.428571428572,,airport_breakdown,,2429.8571428571427,2309.5714285714284,Cascais
+Portugal,0,44452.857142857145,,airport_breakdown,,22224.714285714286,22228.14285714286,Faro
+Portugal,0,1427.2857142857142,,airport_breakdown,,712.2857142857143,715.0,Flores
+Portugal,0,3944.4285714285716,,airport_breakdown,,1975.0,1969.4285714285713,Horta
+Portugal,0,157555.14285714287,,airport_breakdown,,78765.42857142857,78789.71428571429,Lisbon
+Portugal,0,19450.714285714286,,airport_breakdown,,9721.714285714286,9729.0,Madeira
+Portugal,0,197.6,,airport_breakdown,,101.0,96.6,Montijo
+Portugal,0,16154.714285714286,,airport_breakdown,,8081.0,8073.714285714285,Ponta Delgada
+Portugal,0,69797.85714285714,,airport_breakdown,,34891.42857142857,34906.42857142857,Porto
+Portugal,0,2445.714285714286,,airport_breakdown,,1216.142857142857,1229.5714285714287,Porto Santo
+Portugal,0,2348.4285714285716,,airport_breakdown,,1178.2857142857142,1170.142857142857,Santa Maria
+Republic of North Macedonia,0,13614.285714285714,,airport_breakdown,,6806.857142857143,6807.428571428572,Skopje
+Romania,0,4568.428571428572,,airport_breakdown,,2282.5714285714284,2285.8571428571427,Bucharest - Băneasa
+Romania,0,89954.42857142857,,airport_breakdown,,44985.71428571428,44968.71428571428,Bucharest - Otopeni
+Serbia,0,52841.28571428572,,airport_breakdown,,26420.14285714286,26421.14285714286,Belgrade - Nikola Tesla
+Slovakia,0,16441.14285714286,,airport_breakdown,,8205.285714285714,8235.857142857143,Bratislava
+Slovenia,0,20894.571428571428,,airport_breakdown,,10441.857142857143,10452.714285714286,Ljubljana
+Slovenia,0,1721.142857142857,,airport_breakdown,,847.1428571428571,874.0,Maribor
+Slovenia,0,1611.5714285714287,,airport_breakdown,,796.5714285714286,815.0,Portorož
+Spain,0,199.42857142857142,,airport_breakdown,,99.85714285714286,99.57142857142857,Abad
+Spain,0,660.5714285714286,,airport_breakdown,,315.7142857142857,344.85714285714283,Albacete
+Spain,0,71363.71428571429,,airport_breakdown,,35680.28571428572,35683.42857142857,Alicante
+Spain,0,7196.714285714285,,airport_breakdown,,3596.0,3600.714285714286,Almeria
+Spain,0,9285.0,,airport_breakdown,,4643.285714285715,4641.714285714285,Asturias
+Spain,0,1450.0,,airport_breakdown,,721.7142857142857,728.2857142857143,Badajoz
+Spain,0,242823.7142857143,,airport_breakdown,,121425.0,121398.71428571429,Barcelona
+Spain,0,33905.28571428572,,airport_breakdown,,16943.14285714286,16962.14285714286,Bilbao
+Spain,0,610.4285714285714,,airport_breakdown,,324.0,286.42857142857144,Burgos
+Spain,0,193.25,,airport_breakdown,,92.5,100.75,Ciudad Real Central
+Spain,0,281.42857142857144,,airport_breakdown,,141.0,140.42857142857142,Cordoba
+Spain,0,37720.857142857145,,airport_breakdown,,18862.571428571428,18858.285714285714,Fuerteventura
+Spain,0,11111.285714285714,,airport_breakdown,,5413.857142857143,5697.428571428572,Gerona
+Spain,0,95878.85714285714,,airport_breakdown,,47997.42857142857,47881.42857142857,Gran Canaria
+Spain,0,7782.142857142857,,airport_breakdown,,3881.5714285714284,3900.5714285714284,Granada
+Spain,0,3842.4285714285716,,airport_breakdown,,1911.7142857142858,1930.7142857142858,Hierro
+Spain,0,57626.857142857145,,airport_breakdown,,28810.714285714286,28816.14285714286,Ibiza
+Spain,0,12213.714285714286,,airport_breakdown,,6109.714285714285,6104.0,Jerez De La Frontera
+Spain,0,8644.0,,airport_breakdown,,4305.285714285715,4338.714285714285,La Coruna
+Spain,0,1525.5714285714287,,airport_breakdown,,763.7142857142857,761.8571428571429,La Gomera
+Spain,0,15691.0,,airport_breakdown,,7835.857142857143,7855.142857142857,La Palma
+Spain,0,45768.71428571428,,airport_breakdown,,22882.714285714286,22886.0,Lanzarote
+Spain,0,939.1428571428571,,airport_breakdown,,437.14285714285717,502.0,Leon
+Spain,0,2044.0,,airport_breakdown,,1001.2857142857143,1042.7142857142858,Lleida - Alguaire
+Spain,0,513.1428571428571,,airport_breakdown,,254.57142857142858,258.57142857142856,Logrono
+Spain,0,302437.5714285714,,airport_breakdown,,151264.57142857142,151173.0,Madrid - Barajas
+Spain,0,2393.1428571428573,,airport_breakdown,,1255.5714285714287,1137.5714285714287,Madrid - Cuatro Viento
+Spain,0,1339.5714285714287,,airport_breakdown,,667.8571428571429,671.7142857142857,Madrid - Getafe
+Spain,0,1489.7142857142858,,airport_breakdown,,722.8571428571429,766.8571428571429,Madrid - Torrejon
+Spain,0,24690.85714285714,,airport_breakdown,,12346.0,12344.857142857143,Mahon
+Spain,0,6884.428571428572,,airport_breakdown,,3437.8571428571427,3446.5714285714284,Melilla
+Spain,0,3825.1428571428573,,airport_breakdown,,1902.0,1923.142857142857,Murcia San Javier
+Spain,0,104214.42857142857,,airport_breakdown,,52124.42857142857,52090.0,Málaga
+Spain,0,2978.1428571428573,,airport_breakdown,,1491.4285714285713,1486.7142857142858,Noain Pamplona
+Spain,0,210.28571428571428,,airport_breakdown,,109.0,101.28571428571429,Palma - Son San Juan
+Spain,0,161339.7142857143,,airport_breakdown,,80664.85714285714,80674.85714285714,Palma de Mallorca
+Spain,0,3926.0,,airport_breakdown,,1965.5,1960.5,Región de Murcia International Airport
+Spain,0,5871.142857142857,,airport_breakdown,,2865.8571428571427,3005.285714285714,Reus
+Spain,0,4337.0,,airport_breakdown,,2186.285714285714,2150.714285714286,Rota
+Spain,0,1630.2857142857142,,airport_breakdown,,1053.5714285714287,576.7142857142857,Sabadell
+Spain,0,2864.0,,airport_breakdown,,1423.142857142857,1440.857142857143,Salamanca Matalan
+Spain,0,3976.4285714285716,,airport_breakdown,,1980.857142857143,1995.5714285714287,San Sebastian
+Spain,0,6931.857142857143,,airport_breakdown,,3461.8571428571427,3470.0,Santander
+Spain,0,16193.57142857143,,airport_breakdown,,8128.571428571428,8065.0,Santiago
+Spain,0,38917.28571428572,,airport_breakdown,,19462.85714285714,19454.428571428572,Sevilla
+Spain,0,4451.0,,airport_breakdown,,2246.714285714286,2204.285714285714,Seville - Moron
+Spain,0,557.5714285714286,,airport_breakdown,,281.14285714285717,276.42857142857144,Son Bonet
+Spain,0,53477.42857142857,,airport_breakdown,,26737.0,26740.428571428572,Tenerife North
+Spain,0,51987.0,,airport_breakdown,,25999.85714285714,25987.14285714286,Tenerife Sur - Reina Sofia
+Spain,0,51170.28571428572,,airport_breakdown,,25583.571428571428,25586.714285714286,Valencia
+Spain,0,153.71428571428572,,airport_breakdown,,62.714285714285715,91.0,Valencia - Requena
+Spain,0,2397.4285714285716,,airport_breakdown,,1138.2857142857142,1259.142857142857,Valladolid
+Spain,0,7842.714285714285,,airport_breakdown,,3901.5714285714284,3941.1428571428573,Vigo
+Spain,0,7924.142857142857,,airport_breakdown,,3953.285714285714,3970.8571428571427,Vitoria
+Spain,0,7333.0,,airport_breakdown,,3671.4285714285716,3661.5714285714284,Zaragoza
+Sweden,0,50509.142857142855,,airport_breakdown,,25248.428571428572,25260.714285714286,Göteborg
+Sweden,0,171170.7142857143,,airport_breakdown,,85586.85714285714,85583.85714285714,Stockholm - Arlanda
+Sweden,0,37907.57142857143,,airport_breakdown,,18942.14285714286,18965.428571428572,Stockholm - Bromma
+Switzerland,0,136962.14285714287,,airport_breakdown,,68501.14285714286,68461.0,Geneva
+Switzerland,0,5802.857142857143,,airport_breakdown,,2916.4285714285716,2886.4285714285716,Sion
+Switzerland,0,196045.85714285713,,airport_breakdown,,98041.57142857143,98004.28571428571,Zürich
+Turkey,0,79000.57142857143,,airport_breakdown,,39520.28571428572,39480.28571428572,Ankara - Esenboğa
+Turkey,0,129509.85714285714,,airport_breakdown,,64748.71428571428,64761.142857142855,Antalya
+Turkey,0,224355.42857142858,,airport_breakdown,,112180.71428571429,112174.71428571429,Istanbul Atatürk
+Turkey,0,181661.0,,airport_breakdown,,90825.42857142857,90835.57142857143,Istanbul Sabiha Gökçen
+Turkey,0,62847.57142857143,,airport_breakdown,,31423.428571428572,31424.14285714286,Izmir - Adnan Menderes
+Turkey,0,187860.6,,airport_breakdown,,93929.0,93931.6,iGA Istanbul Airport
+Ukraine,0,71860.42857142857,,airport_breakdown,,35932.71428571428,35927.71428571428,Kiev - Boryspil
+United Kingdom,0,42487.142857142855,,airport_breakdown,,21273.285714285714,21213.85714285714,Aberdeen
+United Kingdom,0,37716.0,,airport_breakdown,,18872.285714285714,18843.714285714286,Belfast - Aldergrove
+United Kingdom,0,25870.0,,airport_breakdown,,12934.42857142857,12935.57142857143,Belfast - City Airport
+United Kingdom,0,15306.57142857143,,airport_breakdown,,7646.571428571428,7660.0,Biggin Hill
+United Kingdom,0,77629.85714285714,,airport_breakdown,,38819.71428571428,38810.142857142855,Birmingham
+United Kingdom,0,48530.57142857143,,airport_breakdown,,24162.285714285714,24368.285714285714,Bristol
+United Kingdom,0,54635.42857142857,,airport_breakdown,,27308.0,27327.428571428572,East Midlands
+United Kingdom,0,90407.0,,airport_breakdown,,45208.57142857143,45198.42857142857,Edinburgh
+United Kingdom,0,23987.714285714286,,airport_breakdown,,11994.142857142857,11993.57142857143,Farnborough
+United Kingdom,0,63954.71428571428,,airport_breakdown,,32000.714285714286,31954.0,Glasgow
+United Kingdom,0,54380.142857142855,,airport_breakdown,,27178.714285714286,27201.428571428572,London - City
+United Kingdom,0,191442.42857142858,,airport_breakdown,,95716.85714285714,95725.57142857143,London - Gatwick
+United Kingdom,0,349496.28571428574,,airport_breakdown,,174729.7142857143,174766.57142857142,London - Heathrow
+United Kingdom,0,101459.14285714286,,airport_breakdown,,50723.0,50736.142857142855,London - Luton
+United Kingdom,0,143778.85714285713,,airport_breakdown,,71900.42857142857,71878.42857142857,London - Stansted
+United Kingdom,0,2317.1428571428573,,airport_breakdown,,1157.7142857142858,1159.4285714285713,Londonderry - Eglinton
+United Kingdom,0,141229.7142857143,,airport_breakdown,,70616.71428571429,70613.0,Manchester
+United Kingdom,0,26221.4,,airport_breakdown,,13105.6,13115.8,Newcastle
+United Kingdom,0,26888.714285714286,,airport_breakdown,,13425.0,13463.714285714286,Southampton
